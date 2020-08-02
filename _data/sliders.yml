@@ -1,0 +1,21 @@
+- selector: ticdi-logotyper
+  bullets:  true
+  titles: true
+  images:
+    - src: /assets/ticdi/ticdi-night-of-the-devils.jpg
+      title: La notte dei diavoli (1972)
+    - src: /assets/ticdi/ticdi-the-night-caller.jpg
+      title: Peur sur la ville (1975)
+    - src: /assets/ticdi/ticdi-the-psychic.jpg
+      title: Sette note in nero (1977)
+  settings:
+    height: 200
+    initialHeight:
+    maxHeight:
+    interval: 
+    transitionDuration:
+    effect:
+    disableNav:
+    keyboardNav:
+    previousNavSelector:
+    nextNavSelector:

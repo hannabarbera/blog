@@ -1,0 +1,22 @@
+
+  <div class="header">
+ <r-grid columns=6>
+   <r-cell span=2 span-s=row>
+    <a class="title" href="{{ site.baseurl }}/index.html"><span style="font-size: 1.125rem;">&infin;</span> <span id="rotate">rymden</span></a>
+</r-cell>
+<r-cell span=3-6 span-s=row>
+  {% include links.html %}
+</r-cell>
+</r-grid>
+  </div>
+
+<!--javascript-->
+<script type="text/javascript">
+  var terms = ["rymden®", "space®", "weltraum®", "espace®", "spatium®", "ruimte®", "espacio®", "avaruus®", "uzay®", "geimur®"];
+  function rotateTerm() {
+  var ct = $("#rotate").data("term") || 0;
+  $("#rotate").data("term", ct == terms.length -1 ? 0 : ct + 1).text(terms[ct]).fadeIn()
+              .delay(8000).fadeOut(200, rotateTerm);
+    }
+  $(rotateTerm);
+</script>

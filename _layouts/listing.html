@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="sv">
+  {% include head.html %}
+<body>
+  <div class=wrapper>
+  {% include header.html %}
+  <r-grid columns=6>
+    <r-cell span=3-6 span-s=row>
+      {{ content }}
+    </r-cell>
+    <r-cell span=3-6 span-s=row>
+      {% include footer.html %}
+    </r-cell>
+  </r-grid>
+</div>
+
+  </body>
+</html>

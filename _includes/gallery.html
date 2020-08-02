@@ -1,0 +1,6 @@
+
+<ul>
+    {% for image in page.images %}
+<li class="gallery"><img src="{{ image.image-path }}" alt="{{ image.title}}"/></li>
+{% endfor %}
+</ul>

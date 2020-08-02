@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="sv">
+  {% include head.html %}
+<body>
+  <div {% if page.cover-image %}
+  class="cover" style="background-image: url({{ page.cover-image }});"
+   {% endif %}
+   >
+   </div>
+  <div class=wrapper>
+  {% include header.html %}
+
+  <r-grid columns=6 >
+    <r-cell span=3-6 span-s=row>
+      <div class="content">
+      {{ content }}
+    </div>
+    </r-cell>
+    <r-cell span=3-6 span-s=row>
+      {% include footer.html %}
+    </r-cell>
+  </r-grid>
+</div>
+
+ <!--Image fades-->
+  <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+  <script>
+    AOS.init();
+  </script>
+  {% if page.iis_slider_active %}
+<!-- Slider -->
+<script src="{{ "/js/slider/ideal-image-slider.min.js" | relative_url }}"></script>
+<script src="{{ "/js/slider/iis-bullet-nav.js" | relative_url }}"></script>
+<script src="{{ "/js/slider/iis-captions.js" | relative_url }}"></script>
+<!-- Sliders on pages -->
+{% for script in page.iis_slider_scripts %}
+  {{ script }}
+{% endfor %}
+<!-- Sliders on indexes -->
+{% for post in paginator.posts %}
+  {% for script in post.iis_slider_scripts %}
+    {{ script }}
+  {% endfor %}
+{% endfor %}
+{% endif %}
+...
+{% include open-embed.html %}
+...
+  </body>
+</html>

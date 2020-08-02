@@ -1,0 +1,18 @@
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js">
+</script>
+  <script src="{{ "/js/swipebox/src/js/jquery.swipebox.js" | prepend: site.baseurl }}"></script>
+  <script type="text/javascript">
+    Date.prototype.FormatStardate = function()
+    {
+        var str = '';
+        return (str = "0" + this.getYear().toString()).substr(str.length-2)
+             + (str = "0" + (this.getMonth()+1).toString()).substr(str.length-2)
+             + (str = "0" + this.getDate().toString()).substr(str.length-2) + "."
+             + (str = "0" + this.getHours().toString()).substr(str.length-2)
+             + (str = "0" + this.getMinutes().toString()).substr(str.length-2);
+    }
+    </script>
+    <script type="text/javascript" src="/js/lightbox.js"></script>
+ 
+
+

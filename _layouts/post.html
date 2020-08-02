@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+ 
+  <div class="content">
+<h1 itemprop="name headline">{{ page.title }}</h1>
+
+  {{ content }}
+  {% include post-tags.html %}
+  {% if site.related_posts.size >= 1 %}
+
+  <h3>Relaterat</h3>
+  <ul class="listing">
+  {% for related_post in site.related_posts limit: 5 %}
+    <li class="titel"><a href="{{ related_post.url }}">{{ related_post.title }}</a></li>
+  {% endfor %}
+  </ul>
+{% endif %}
+
+  {% include pagination.html %}
+
+
+</div>
+
+  <script type="text/javascript">
+    ;( function( $ ) {
+    
+      $( '.swipebox' ).swipebox();
+    
+    } )( jQuery );
+    </script>

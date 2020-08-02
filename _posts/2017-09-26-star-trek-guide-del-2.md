@@ -1,0 +1,110 @@
+---
+layout: post
+date: 2017-09-26
+title: "Nybörjarguide till Star Trek: Del 2"
+tags:
+    - Star Trek
+    - Science Fiction
+---
+
+[I förra delen](rymden.co/2017-09-25-star-trek-guide-del-1.html") tog vi oss an _The Original Series_ och _The Next Generation_, Star Treks hörnstenar. Men om dessa serier ger mersmak, vad ska man då ta sig an?
+
+## Star Trek: Deep Space Nine (DS9)
+
+<figure data-aos="fade-up">
+<img src="/assets/st-ds9.jpg">
+<figcaption>
+Worf (Michael Dorn), Julian Bashir (Alexander Siddig), Odo (René Auberjonois), Miles O’Brien (Colm Meaney), Quark (Armin Shimerman), Kira Nerys (Nana Visitor), Jadzia Dax (Terry Farrell), Benjamin Sisko (Avery Brooks) och Jake Sisko (Cirroc Lofton) i Star Trek: Deep Space 9.
+</figcaption>
+</figure>
+
+<dl>
+<dt>Kapten</dt>
+<dd>Benjamin Sisko – Harmsen jesus-wannabee</dd>
+
+<dt>Handling:</dt>
+<dd>Änkemannen Benjamin Sisko tar motvilligt befäl över rymdstationen Deep Space Nine med uppgiften att agera vakthund åt planeten Bajor som nyligen frigjort sig från en mångårig ockupation. I närheten uppstår plötsligt ett stabilt maskhål som leder till en fjärran del av galaxen, vilket markant höjer stationens fastighetsvärde. Federationen är nämligen ivrig att etablera nya handelsrutter och inser värdet i stationens nyvunna roll som intergalaktisk bensinmack. Bajoranerna, ett djupt religiöst folk, betraktar maskhålet som en himmelsk portal och tillkännager Sisko som gudarnas sändebud. Därmed tvingas han hantera såväl geopolitiska som andliga bryderier, samtidigt som han försöker livspussla sin vardag som ensamstående pappa.</dd>
+</dl>
+
+_Deep Space Nine_ utvecklades efter Gene Roddenberrys hädangång vilket märks i seriens tonalitet. Manusförfattarna skakade prompt av sig upphovsmannens stående förbud mot internkonfliktsskildringar, vilket resulterade i Star Treks mest välskrivna persongalleri. Bland dessa ses hetlevrade f d gerillasoldaten Kira Nerys; den tvångsmässiga Barbapapan Odo; den servile lönnmördaren Garak samt seriens storusling Gul Dukat, charmig men inbilsk tyrann med destruktiva hävdelsebehov. Nämnas bör även skälmen Quark, stationens karismatiska Ferengi-bartender och löjtnant Worf, tittarfavorit från _The Next Generation_ som ansluter sig till serien i säsong 4 och blomstrar som rollfigur.
+
+### Sevärda avsnitt
+
+<dl>
+<dt>Emissary (säsong 1)</dt>
+
+<dd>Starkt pilotavsnitt som öppnar mitt i brinnande krig och sätter tonen för serien. Här introduceras även på ett suggestivt sätt en av dom viktigaste ingredienserna i <cite>Deep Space Nine</cite>: Profeterna – okroppsliga varelser som dyrkas av Bajoranerna – och deras mystiska profetior.</dd>
+
+<dt>Necessary Evil (säsong 2)</dt>
+
+<dd>Utsökt Trek Noir där den grinigt ordningsamme formskiftaren Odo leder en mordutredning på stationen vars upplösning gör en dramatisk u-sväng från etablerad Trek-anda. Felfritt avsnitt om hur skelett i garderoben kan slita itu de starkaste vänskapsband.</dd>
+
+<dt>The Magnificent Ferengi (säsong 6)</dt>
+
+<dd>Lättsam homage till <cite>7 vågade livet</cite> där bartendern Quark samlar en brokig skara Ferengier att genomföra ett gisslanutbyte. Komisk avstickare som lyfter fram oanade sidor hos det vanligtvis påfrestande, kommersdrivna Ferengi-folket. Därtill ses en mysande Iggy Pop i rollen som sarkastiske Vorta-förhandlaren Yelgrun.</dd>
+
+<dt>In The Pale Moonlight (säsong 6)</dt>
+
+<dd>Knäckt av brutala förluster i Dominionkriget söker Sisko hjälp av den försåtlige exil-Cardassiern Garak att förmå Romulanerna att ansluta sig till Federationens sida, men upptäcker raskt att priset kanske är för högt. En hårdkokt fanfavorit om höga principers snabba förfall.</dd>
+</dl>
+
+<figure data-aos="fade-up">
+<img src="/assets/st-ds9-iggy-pop.jpg">
+<figcaption>
+Iggy Pop gästspelar i Deep Space 9
+</figcaption>
+</figure>
+
+_Deep Space Nine_ kommer egentligen igång på allvar först fyra säsonger in, då det förödande Dominionkriget inleds mellan Federationen och en formskiftar-art som kallar sig "Grundarna". En brutal konflikt som pågår ända fram till seriens slut. Med sina säsongsöverbryggande berättelser och orädsla för dålig stämning är det serien som idag känns mest modern.
+
+Så gott som samtliga avsnitt är sevärda, men otåliga tittare uppmuntras att även ta till sig [_Improbable Cause_](https://www.wikiwand.com/en/Improbable_Cause), [_The Siege of AR-558_](https://www.wikiwand.com/en/The_Siege_of_AR-558), [_Inquisition_](https://en.wikipedia.org/wiki/Inquisition_(Star_Trek:_Deep_Space_Nine)), Klingontunga [_Soldiers of the Empire_](https://en.wikipedia.org/wiki/Soldiers_of_the_Empire), [_The Visitor_](https://en.wikipedia.org/wiki/The_Visitor_(Star_Trek:_Deep_Space_Nine)) samt originalseriehomagen [_Trials and Tribble-ations_](https://www.wikiwand.com/en/Trials_and_Tribble-ations).
+
+## Star Trek: Voyager (VOY)
+
+<figure data-aos="fade-up">
+<img src="/assets/st-voy.jpg">
+<figcaption>
+Harry Kim (Garrett Wang), The Doctor (Robert Picardo), Chakotay (Robert Beltran), Tom Paris (Robert Duncan McNeill), Seven of Nine (Jeri Ryan), Neelix (Ethan Philips), B’Elanna Torres (Roxann Dawson), Tuvok (Tim Russ) och Kathryn Janeway (Kate Mulgrew) i Star Trek: Voyager.
+</figcaption>
+</figure>
+
+<dl>
+<dt>Kapten:</dt>
+<dd>Kathryn Janeway – Principfast botgörare</dd>
+<dt>Handling</dt>
+<dd>Kapten Janeway får befälet över USS Voyager, ett avsevärt mindre men smidigare skepp än Enterprise, och beordras att finna och gripa en grupp upprorsmakare. Mitt i jakten sveper en massiv energivåg både Voyager och skeppet dom följer till andra änden av galaxen. Med en 75 år lång hemresa att se fram emot bestämmer sig Janeway för att slå ihop skeppens besättningar och utser revoltörernas ledare till sin försteofficer. Hon inser också vikten av att kartlägga så mycket outforskad rymd som möjligt på vägen.</dd>
+</dl>
+
+_Voyager_ är en vattendelare bland Trek-fans, hyllad av vissa, hatad av andra. Seriens kvalitetsnivå må vara svajig, men den har många anmärkningsvärda aspekter: inramningens farofyllda odyssé; en delad besättning med olika metodik och temperament och inte minst ett sällsynt kvinnocentriskt persongalleri.
+
+I likhet med _Deep Space Nine_ får _Voyager_ drag under galoscherna först ett par säsonger in, då Borg-avfällingen Seven of Nine träder in i bilden. Borgerna är Federationens främsta fiende, ett cybernetiskt kollektiv som assimilerar alla arter som kan bidra till deras evolutionära och teknologiska perfektion. Seven of Nines långsamma avprogrammering från kollektivets drönarmentalitet och gradvisa omfamnande av mänsklig felbarhet ligger till grund för många av seriens bästa avsnitt. Andra rollfigurer som gör avtryck är Tom Paris, besättningens svarta får och seriens angivna Lothario; B’Elanna Torres, halv-klingonsk ingenjör med låg impulskontroll; Kes, nyfiken mensch med extraordinära mentala krafter samt Chakotay, en jordnära mystiker med osviklig moralisk kompass. Den största fanfavoriten är dock skeppets syrliga akutläkarhologram, "The Doctor", vars patientbemötande lämnar en del att önska.
+
+### Sevärda avsnitt
+<dl>
+<dt>Year of Hell (säsong 4)</dt>
+<dd>Voyager kämpar mot en folkmördare som kan radera hela civilisationer från tidslinjen. På grund av hans mixtrande med tid och rum utsätts kapten Janeway och hennes besättning för prövningar som driver dom mot fysisk och mental kollaps. Ett av Voyagers mörkare avsnitt där Kate Mulgrew får ta ut svängarna som en alltmer nedtryckt kapten med ansvarets tunga ok på sina axlar och Kurtwood Smith får briljera som psykotisk vetenskapsman, driven till vansinne av sorg över sin hustrus frånfälle.</dd>
+
+<dt>Mortal Coil (säsong 4)</dt>
+<dd>Seriens lytesfigur Neelix dör på ett fältuppdrag men återupplivas på sjukan, varpå han sjunker i djup depression över insikten att livet efter döden inte existerar. Ett gripande avsnitt om vacklande tro och existentiell ångest.</dd>
+
+<dt>Equinox (säsong 5)</dt>
+<dd>Voyager upptäcker ett annat Federationsskepp i Delta-kvadranten, USS Equinox. Stor glädje uppstår över att möta andra stjärnflottister i främmande område, tills Janeway inser att den andra besättningen bär på en mörk hemlighet. Otäck beskrivning av hur överlevnadsinstinkten kan trigga våra lägsta impulser. Nämnvärt är att avsnittet skrevs av Ronald D. Moore, så fans av <cite>Battlestar Galactica</cite> kommer att känna sig som hemma här.</dd>
+
+<dt>Author, Author (säsong 7)</dt>
+<dd>Efter att regelbunden kontakt med jorden har upprättats så törstar folk på hemmaplan efter nyheter om hur livet på Voyager ter sig. Hologramdoktorn låter publicera ett virtual reality-melodram om ett liveget hologram — <cite>Photons Be Free</cite> — som utmålar skeppets besättning på ett minst sagt osmickrande vis. Ett av seriens mest underhållande avsnitt som lyfter fram skådespelarnas komiska talanger och samtidigt behandlar frågan kring artificiella intelligensers eventuella samhällsrättigheter.</dd>
+</dl>
+
+<figure data-aos="fade-up">
+<img src="/assets/st-voy-kurtwood-smith.jpg">
+<figcaption>
+Kurtwood Smith som Annorax i Voyager-avsnittet Year of Hell.
+</figcaption>
+</figure>
+
+Andra höjdpunkter är [_Flashback_](https://www.wikiwand.com/en/Flashback_(Star_Trek:_Voyager)), [_Timeless_](https://www.wikiwand.com/en/Timeless_(Star_Trek:_Voyager)), [_Scorpion_](https://www.wikiwand.com/en/Scorpion_(Star_Trek:_Voyager)), [_The Raven_](https://www.wikiwand.com/en/The_Raven_(Star_Trek:_Voyager)), [_Deadlock_](https://www.wikiwand.com/en/Deadlock_(Star_Trek:_Voyager)) och [_Endgame_](https://www.wikiwand.com/en/Endgame_(Star_Trek:_Voyager)).
+
+_Voyager_ är serien för dig som föredrar det episodiska formatet och älskar mysiga familjedraman.
+
+[I nästa och sista del](http://www.rymden.co/2017/09/27/star-trek-guide-del-3/) tar vi oss an serierna som har stått i skamvrån under lång tid men sakta börjat få upprättelse, nämligen _Star Trek: Enterprise_ och _Star Trek: The Animated Series_!
+
+[Se även del 1 av vår nybörjarguide till Star Trek](rymden.co/2017-09-25-star-trek-guide-del-1.html).
