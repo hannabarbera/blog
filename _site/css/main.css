@@ -1376,9 +1376,6 @@ body {
   align-items: baseline;
   text-align: left;
   max-width: 64rem; }
-  @media (max-width: 599px) {
-    .content {
-      max-width: 80%; } }
   .content h1 {
     font-family: "NeueHaasUnicaPro-Medium", Helvetica, sans-serif;
     text-transform: lowercase;
