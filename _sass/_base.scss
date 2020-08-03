@@ -14,7 +14,7 @@ html {
 body {
   margin: 0;
   background-color: white;
-  font-family: $font-sans;
+  font-family: $Sans;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -webkit-hyphens: auto;
@@ -61,14 +61,14 @@ margin: 0 auto;
       } 
     }
   .title {
-    font-family: $font-medium;
+    font-family: $SansMedium;
     display: block;
     margin-bottom: $d16;
     }
 }
 
 .nav {
-  font-family: $font-sans;
+  font-family: $Sans;
   margin-bottom: $d16;
  
     a {
@@ -107,7 +107,7 @@ margin: 0 auto;
   max-width: 64rem;
  
   h1 {
-    font-family: $font-medium;
+    font-family: $SansMedium;
     text-transform: lowercase;
     font-size: 1.5rem;
     @include phone {
@@ -123,7 +123,7 @@ margin: 0 auto;
   }
  
   p {
-    font-family: $font-serif;
+    font-family: $Serif;
     font-size: 1.125rem;
     @include phone {
       font-size: .875rem;
@@ -132,12 +132,12 @@ margin: 0 auto;
     width: 100%;
     margin: 0;
         em {
-      font-family: $font-italic;
+      font-family: $Italic;
       font-style: normal;
       }
     strong {
       font-variant: small-caps; 
-      font-family: $font-sans;
+      font-family: $Sans;
       font-style: normal;
       font-weight: normal;
       }
@@ -145,7 +145,7 @@ margin: 0 auto;
       background-color: lighten($minion, 20%);
       }
     cite {
-      font-family: $font-italic;
+      font-family: $Italic;
       font-style: normal;
       }
   }
@@ -174,7 +174,7 @@ margin: 0 auto;
   
   
   h2 {
-    font-family: $font-medium;
+    font-family: $SansMedium;
     font-weight: normal;
     font-size: 1.125rem;
     line-height: 1.33;
@@ -188,7 +188,7 @@ margin: 0 auto;
   }
   
   h3 {
-    font-family: $font-sans;
+    font-family: $Sans;
     font-weight: 400;
     font-size: 1.125rem;
     margin-top: 2rem;
@@ -215,7 +215,7 @@ margin: 0 auto;
     }
     figcaption {
       margin-top: 1rem;
-      font-family: $font-medium;
+      font-family: $SansMedium;
       font-size: 0.75rem;
       font-weight: 400;
     }
@@ -233,7 +233,7 @@ margin: 0 auto;
   
     @supports (initial-letter: 3) or (-webkit-initial-letter: 3) {
       .content > p:first-of-type:first-letter {
-        font-family: $font-sans;
+        font-family: $Sans;
         margin-right: .5em;
   
         -webkit-initial-letter: 3;
@@ -241,7 +241,7 @@ margin: 0 auto;
       }
       // .content > blockquote > p:first-letter {
       //   font-size: 1.125rem;
-      //   font-family: $font-sans;
+      //   font-family: $Sans;
       //   margin-right: 0;
       //   -webkit-initial-letter: 0;
       //   initial-letter: 0;
@@ -266,7 +266,7 @@ margin: 0 auto;
     }
       
     dt {
-    font-family: $font-italic;
+    font-family: $Italic;
     margin-top: .5rem;
     }
     dt:before {
@@ -274,7 +274,7 @@ margin: 0 auto;
     }
     dd {
       margin-left: 1rem;
-      font-family: $font-serif;
+      font-family: $Serif;
       color: rgba($black, 0.8);
       
     }
@@ -289,7 +289,7 @@ margin: 0 auto;
     font-size: 1.125rem;
     line-height: 1.33;
     @include Color;
-    font-family: $font-sans;
+    font-family: $Sans;
     letter-spacing: -0.24px;
     font-weight: normal;
   em {
@@ -297,7 +297,7 @@ margin: 0 auto;
       }
     a {
       @include Color;
-      font-family: $font-sans;
+      font-family: $Sans;
     }
     }
     p:last-of-type {
@@ -305,13 +305,13 @@ margin: 0 auto;
     }
   }
   i {
-    font-family: $font-italic;
+    font-family: $Italic;
     font-style: normal;
      }
      
     a {
       color: $black;
-      font-family: $font-serif;
+      font-family: $Serif;
       text-decoration: none;
       border-bottom: 1px solid lighten(black, 70%);
 
@@ -339,7 +339,7 @@ margin: 0 auto;
         }
     }
     .post-tags-index > h1 > a {
-      font-family: $font-serif;
+      font-family: $Serif;
       border-bottom: 0px;
       margin-left: 0;
       }
@@ -360,11 +360,11 @@ margin: 0 auto;
 
 .footer {
   .colophon {
-    font-family: $font-sans;
+    font-family: $Sans;
     font-size: .75rem;
     margin-bottom: 4rem;
     a {
-      font-family: $font-medium;
+      font-family: $SansMedium;
       text-decoration: none;
       color: $black;
       }
@@ -387,7 +387,7 @@ padding: 0;
     margin-bottom: 1rem;
     a {
       color: $black;
-      font-family: $font-sans;
+      font-family: $Sans;
       font-style: normal;
       border-bottom: 0;
       @include phone {
@@ -418,7 +418,7 @@ padding: 0;
   margin-bottom: 4rem;
   margin-top: 2rem;
   a {
-font-family: $font-medium;
+font-family: $SansMedium;
 font-size: .75rem;
 border-bottom: 0;
   }
@@ -450,7 +450,7 @@ h2:first-of-type {
   a {
     @include Color;
     display: inline-block;
-    font-family: $font-medium;
+    font-family: $SansMedium;
     font-size: .875rem;
     text-decoration: none;
     border: 1px solid fade-out($black, .9);
@@ -479,7 +479,7 @@ sup {
   a.footnote {
     padding: 0rem .125rem;
     border-bottom: 0;
-    font-family: $font-medium;
+    font-family: $SansMedium;
     font-size: .75rem;
   }
   a.footnote:hover {
@@ -534,7 +534,7 @@ sup {
     margin-top: 1rem;
     margin-bottom: 2rem;
     list-style: none;
-    font-family: $font-serif;
+    font-family: $Serif;
     font-size: .875rem;
     padding-left: 0;
   li {
@@ -581,7 +581,7 @@ sup {
     li { 
       float: left; display: block; margin: 0 0 1% 1%; width: 19%;
       a {
-        font-family: $font-sans;
+        font-family: $Sans;
         font-size: .625rem;
         text-align: center; text-decoration: none!important;
         span {
