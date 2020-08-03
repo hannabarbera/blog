@@ -28,13 +28,9 @@ body {
 }
 
 .wrapper {
-  max-width: 1024px;
 margin: 0 auto;
-  padding: 0 2rem;
+    max-width: 80%;
   }
-
-
- 
  
 .header {
   background-color: rgba(white, 0.96);
@@ -45,6 +41,7 @@ margin: 0 auto;
   text-align: left;
   @include phone {
     padding: 1rem 0rem;
+    z-index: 2000;
   }
   
   a {
@@ -102,13 +99,15 @@ margin: 0 auto;
 	background-attachment: scroll;
 	background-position: center;
 	background-size: cover;
-  box-shadow: inset 0px -4px 8px rgba(0,0,0,0.2);
-
 }
 
 .content {
   align-items: baseline;
   text-align: left;
+  max-width: 64rem;
+  @include phone {
+    max-width: 80%;
+  }
 
 
 
@@ -214,7 +213,10 @@ margin: 0 auto;
     }
     img {
     max-width: 100%;
-    border-radius: .25rem;
+    border-radius: 2px;
+    -webkit-box-shadow: 0px 8px 32px -8px rgba(0,0,0,0.24);
+    -moz-box-shadow: 0px 8px 32px -8px rgba(0,0,0,0.24);
+    box-shadow: 0px 8px 32px -8px rgba(0,0,0,0.24);
     }
     figcaption {
       margin-top: 1rem;
@@ -374,6 +376,7 @@ margin: 0 auto;
     }
  
 }
+
 
 
 

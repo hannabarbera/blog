@@ -9,7 +9,7 @@ tags:
 cover-image: /assets/covers/cover-scoobydoo.jpg
 ---
 
-# Spooky sounds
+
 
 
  /assets/mp3/scoobydoo.mp3 

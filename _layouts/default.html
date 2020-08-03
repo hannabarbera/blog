@@ -2,18 +2,20 @@
 <html lang="sv">
   {% include head.html %}
 <body>
-  <div class=wrapper>
-  {% include header.html %}
-  <div {% if page.cover-image %}
+ <!--  <div {% if page.cover-image %}
   class="cover" style="background-image: url({{ page.cover-image }});"
    {% endif %}
-   >
-   </div>
+   > 
+   </div> -->
+ 
+  <div class=wrapper>
+    {% include header.html %}
+
   <r-grid columns=6 >
     <r-cell span=3-6 span-s=row>
-      <div class="content">
+
       {{ content }}
-    </div>
+
     </r-cell>
     <r-cell span=3-6 span-s=row>
       {% include footer.html %}
@@ -42,8 +44,8 @@
   {% endfor %}
 {% endfor %}
 {% endif %}
-...
+
 {% include open-embed.html %}
-...
+
   </body>
 </html>
