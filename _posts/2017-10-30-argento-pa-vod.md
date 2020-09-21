@@ -35,7 +35,7 @@ Musikern Marcus Daly (David Hemmings) är på väg hem från en spelning när ha
 
 Filmen bedriver också en uppenbar dialog med Michelangelo Antonionis _Blow-Up_ (1967), både vad avser huvudrollsinnehavaren och tematiken kring perception och subjektiv sanning. Inte minst gör rockbandet Goblin komponistdebut med hetsiga rytmer som understryker mördarens deliriska tillstånd.
 
-_Deep Red_ är en erkänt sinnrik giallo där Argento bibehåller genrens konventioner – spektakulära mord, strykande kameraåkningar, stilfull art direction och en handskbeklädd mördare i trenchcoat – fast löper amok och förvränger dom med illmarig glädje. Resultatet är en vindlande olustfärd med en djupare och mer lekfull komplexitet än ett Zappa-album.
+_Deep Red_ är en erkänt sinnrik giallo där Argento bibehåller genrens konventioner – spektakulära mord, strykande kameraåkningar, stilfull art direction och en handskbeklädd mördare i trenchcoat – fast löper amok och förvränger dom med illmarig glädje. Resultatet är en vindlande olustfärd med en lika lekfull komplexitet som ett Zappa-album.
 
 ## Tenebre  (1982)
 
