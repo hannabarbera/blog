@@ -87,30 +87,6 @@ margin: 0 auto;
     }
   }
 
-  dl {
-    margin-top: 0;
-    margin-bottom: 2rem;
-    line-height: 1.5;
-    font-size: 1rem;
-    @include phone {
-    font-size: .875rem;
-    }
-      
-    dt {
-    font-family: $Italic;
-    margin-top: .5rem;
-    }
-    dt:before {
-      content: "—";
-    }
-    dd {
-      margin-left: 1rem;
-      font-family: $Serif;
-      color: rgba($black, 0.8);
-      
-    }
-  }
-  
 /* CONTENT STYLING */
 
 .cover {
