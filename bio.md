@@ -11,6 +11,7 @@ links:
     url: https://www.facebook.com/ticdifilmklubb
 ---
 
+<div class="content">
 
 ## Introduktion
 
@@ -81,4 +82,4 @@ I <i>Rymden®</i> delar jag film och designrelaterat material i text och bildfor
       Här har James Bond varit
      </dd>
 
-  
+  </div>
