@@ -1,6 +1,6 @@
-# Sidey
+# jesperwiking.com
 
-Sidey is a simple and minimalistic jekyll blogging theme.
+Byggt på mallen [Sidey](https://github.com/ronv/sidey), ett blog theme för Jekyll.
 
 ### Features
 
@@ -19,7 +19,3 @@ Sidey is a simple and minimalistic jekyll blogging theme.
 - Seo optimized (Twitter cards, Facebook Open Graph, Schema.org)
 - Ultra fast (Only ~5kb of CSS)
 - Sidebar navigation
-
-### Screenshot
-
-![Screenshot](screenshot.png)
