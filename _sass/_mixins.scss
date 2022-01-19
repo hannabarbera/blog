@@ -23,37 +23,37 @@
 
 @mixin BackgroundColor {
   @include phone {
-    background-color: $panam;
+    background-color: $barney;
     }
   @include tablet {
     background-color: $kermit;
     }
   @include desktop {
-    background-color: $tomato;
+    background-color: $panam;
     }
 }
 
 @mixin Color {
   @include phone {
-    color: $panam;
+    color: $barney;
     }
   @include tablet {
     color: $kermit;
     }
   @include desktop {
-    color: $tomato;
+    color: $panam;
     }
 }
 
 @mixin BorderColor {
   @include phone {
-    border-color: $panam;
+    border-color: $barney;
     }
   @include tablet {
     border-color: $kermit;
     }
   @include desktop {
-    border-color: $tomato;
+    border-color: $panam;
     }
 }
 
