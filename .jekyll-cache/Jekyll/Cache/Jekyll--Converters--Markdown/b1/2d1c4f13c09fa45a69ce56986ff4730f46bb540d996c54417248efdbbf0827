@@ -1,12 +1,7 @@
----
-layout: page
-title: About
----
+I"�<p>Grafisk formgivare, poddproducent och filmskribent med hemvist i Stockholm.
+Här publicerar jag film och designrelaterat material i text och bildform.</p>
 
-Grafisk formgivare, poddproducent och filmskribent med hemvist i Stockholm.
-Här publicerar jag film och designrelaterat material i text och bildform.
-
-## Externt
+<h2 id="externt">Externt</h2>
 
 <dl>
   <dt>
@@ -64,3 +59,5 @@ Här publicerar jag film och designrelaterat material i text och bildform.
     <dd>
       Magiska filmscener
      </dd>
+</dt></dl>
+:ET
