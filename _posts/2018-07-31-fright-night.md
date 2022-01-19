@@ -1,0 +1,27 @@
+---
+layout: post
+date: 2018-07-31
+title: "Skratt och rysningar i moderna vampyrklassikern Fright Night"
+categories: Film
+tags: 
+    - Recensioner
+    - Skräck
+---
+
+Unga vampyrfans uthärdade en åsiktskorridor på 1980-talet. Blodmarinerade sommarkollon var inne, Transylvanien ute. Fick man äran att följa med den tuffaste killen i plugget hem och delta i en efter-skolan-visning av *The Burning* på grynig VHS så gällde det att säga ”Wow!” pliktskyldigt när gore-effekterna skvätte över TV-rutan. Att prata sig varm om en rumänsk farbror i mantel och kråsskjorta var helt enkelt inte tillbörligt, man kunde lika gärna skriva <strong>mobba mig</strong> över pannan med bred spritpenna. Men 1985 kom en film som återgav blodsugarna deras rättmätiga status bland skräckfantaster: *Fright Night*, en osedvanligt säker regidebut för Tom Holland (som även gav oss slasherklassikern *Child's Play*) där Dracula-myten korsbefruktades med Hitchcocks *Fönstret åt gården.* 
+
+<figure data-aos="fade-up">
+<img src="/assets/fright-night.jpg">
+<figcaption>Jerry Dandridge visar sitt rätta ansikte</figcaption>
+</figure>
+
+Monsterdiggaren Charley Brewster är säker på att hans nyinflyttade granne i villaförorten, Jerry Dandridge,  är en vampyr. Efter att både vuxenvärlden och vännerna avfärdat hans varningar så vänder han sig till den avdankade skräckfilmsskådisen Peter Vincent, numera värd för ett lokaltv-program som visar gammalt monstermög framåt småtimmarna. Vincent, van att spela Van Helsing-rollen, ställer mot betalning upp på att lindra ynglingens farhågor genom att utsätta den påstådda vampyren för hela arsenalen i en vampyrbekämpares verktygslåda. När han upptäcker att Dandridge inte reflekteras i speglar så börjar även han frukta för sitt liv…
+
+<figure data-aos="fade-up">
+<img src="/assets/fright-night-roddy.jpg">
+<figcaption>Peter Vincent förklarar för Charlie hur man sätter dit vampyrer</figcaption>
+</figure>
+
+*Fright Night* var inte bara en tydlig inspirationskälla för *Buffy the Vampire Slayer,*  den förekom även *Scream* i sin drift med genrekonventioner. Det är en skrämmande, rolig och framförallt charmig film, mycket tack vare den solida skådespelartruppen. Chris Sarandon myser påtagligt i rollen som den självsäkre vampyrhunken Dandridge, ena stunden hånfullt leende åt Charleys desperation, den andra plutande och pyrande i en sagolikt sliskig förförelsescen på ett diskotek. Amanda Bearse har en trovärdigt överseende glimt i ögat som Charleys flickvän Amy, en föraning om den komiska timing som hon sedan briljerade med i rollen som Marcy D'Arcy i *Våra värsta år*. Stephen Geoffreys gör en av erans mest ikoniska rollfigurer med sitt påfrestande porträtt av Charleys kärlekstörstande bästis Ed. Men starkast lyser veteranen Roddy McDowall som monsterfilmskådisen Peter Vincent. Han spelar sin rollfigurs resa från feg, självömkande föredetting till handlingskraftig hjälte med scenerituggande bravur. Musiken av Brad Fiedel ska också ha ett omnämnande, hans smekande synthslingor är hypnotiska lockrop som drar en allt längre in i nattmörkret. 
+
+*Fright Night* var fyrbåken som ledde i hamn moderniserade vampyrskildringar såsom *The Lost Boys*, *Near Dark*, *Vamp* och *Blade*; för det kan vi vara Tom Holland evigt tacksamma.

@@ -1,0 +1,9 @@
+links:
+- title: Texter
+  url: /
+- title: Bakgrund
+  url: /bakgrund
+- title: Sök
+  url: /sok
+- title: Rss
+  url: /atom.xml

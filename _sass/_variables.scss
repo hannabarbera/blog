@@ -1,0 +1,49 @@
+$Sans: 'NeueHaasUnicaPro-Regular', Helvetica, sans-serif;
+$SansMedium: "NeueHaasUnicaPro-Medium", Helvetica, sans-serif;
+$Serif: 'SuisseWorks-Regular', Palatino, Times, Georgia, serif;
+$Italic: 'SuisseWorks-RegularItalic';
+
+// FONT SIZES
+$h1: 1.5rem;
+$h2: 1.125rem;
+$body: 1rem;
+
+// LINE HEIGHTS
+
+// FONTS
+
+$KansasNewLight: 'kansasnew', serif;
+
+$KansasNewRegular: 'kansasnew', serif;
+
+$KansasNewSemiBold: 'kansasnew', serif;
+
+$KansasNewHeavy:'kansasnew', serif;
+
+
+// DISTANCE UNITS
+$d4: .25rem;
+$d8: .5rem;
+$d16: 1rem;
+$d24: 1.5rem;
+$d72: 4.5rem;
+
+
+// COLORS
+$panam: #6699cc;
+$minion: #F5E050;
+$kermit: #459c74;
+$barney: #a786ce;
+$tomato: #ff5e00;
+
+$black: #1f1c24;
+$lightgrey: lighten($black, 80%);
+$grey: lighten($black, 40%);
+$bg-default: $lightgrey;
+$divider: rgba($black, .2);
+$green: #99cc99;
+$yellow: #ffcc66;
+$purple: #7f68b6;
+$tags: shade($bg-default, 10%);
+$bg-default: $lightgrey;
+$multiple: 1rem;

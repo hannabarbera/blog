@@ -1,0 +1,40 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html lang="en" >
+  {% include head.html %}  
+  <body>
+    <main role="main">
+	    
+	    {% include navigation.html %}
+	    
+        {{ content }}
+        	    
+    </main>
+  <!--Image fades-->
+  <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+  <script>
+    AOS.init();
+  </script>
+  {% if page.iis_slider_active %}
+<!-- Slider -->
+<script src="{{ "/js/slider/ideal-image-slider.min.js" | relative_url }}"></script>
+<script src="{{ "/js/slider/iis-bullet-nav.js" | relative_url }}"></script>
+<script src="{{ "/js/slider/iis-captions.js" | relative_url }}"></script>
+<!-- Sliders on pages -->
+{% for script in page.iis_slider_scripts %}
+  {{ script }}
+{% endfor %}
+<!-- Sliders on indexes -->
+{% for post in paginator.posts %}
+  {% for script in post.iis_slider_scripts %}
+    {{ script }}
+  {% endfor %}
+{% endfor %}
+{% endif %}
+
+{% include open-embed.html %}    
+  </body>
+</html>
