@@ -2,6 +2,7 @@
 layout: page
 title: About
 ---
+![](../assets/jesper.gif)
 
 Grafisk formgivare, poddproducent och filmskribent med hemvist i Stockholm.
 Här publicerar jag film och designrelaterat material i text och bildform.

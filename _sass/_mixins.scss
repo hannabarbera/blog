@@ -10,13 +10,13 @@
 
 @mixin Background {
   @include phone {
-    background: $panam;
+    background: $barney;
     }
   @include tablet {
     background: $kermit;
     }
   @include desktop {
-    background: $tomato;
+    background: $panam;
     }
 }
 
