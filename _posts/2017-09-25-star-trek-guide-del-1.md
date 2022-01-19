@@ -132,4 +132,4 @@ Trots sju matiga säsonger duggar höjdpunkterna tätt i TNG, av både det intim
 
 _The Original Series_ och _The Next Generation_ utgör grunderna i mytologin. Har du avverkat dessa två serier så är du en kvalificerad Trekker och kan beställa en [_Samarian Sunset_](http://memory-beta.wikia.com/wiki/Samarian_sunset) på AW:n utan att darra på manschetten.
 
-[I nästa del går vi igenom serierna för de redan frälsta: _Star Trek: Deep Space Nine_ och _Star Trek: Voyager_.](http://www.rymden.co/2017/09/26/star-trek-guide-del-2/)
+[I nästa del går vi igenom serierna för de redan frälsta: _Star Trek: Deep Space Nine_ och _Star Trek: Voyager_.]({% post_url 2017-09-26-star-trek-guide-del-2 %})
