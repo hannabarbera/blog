@@ -18,6 +18,9 @@ body {
 	line-height:1.65;
 	font-size: 1.125rem;
 	color: rgb(22, 23, 26);
+	-webkit-hyphens: auto;
+	-ms-hyphens: auto;
+	hyphens: auto;
 	@include phone {
 	font-size: .875rem;
 	}
