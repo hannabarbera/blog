@@ -22,7 +22,7 @@ body {
 	-ms-hyphens: auto;
 	hyphens: auto;
 	@include phone {
-	font-size: .875rem;
+	font-size: 1rem;
 	}
 }
 
@@ -66,7 +66,7 @@ pre {
 
 figure {
     grid-column: 1;
-    margin: 2rem 0;
+    margin: 1.5rem 0;
 
     img {
     max-width: 100%;
@@ -99,7 +99,7 @@ dl {
     line-height: 1.5;
 	font-size: 1rem;
     @include phone {
-    font-size: .875rem;
+    font-size: 1rem;
     }
     	dt {
     	margin-top: .5rem;
@@ -110,7 +110,7 @@ dl {
     	}
     	dd {
 		font-family: 'neue-haas-unica';
-		font-size: 1rem;
+		font-size: .875rem;
       margin-left: 1rem;
       color: rgba($black, 0.7);
     	}
