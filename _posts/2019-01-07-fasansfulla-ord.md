@@ -6,12 +6,15 @@ categories: Design
 tags: 
     - Skräck
     - Typografi
+    - Film
 ---
  
  
 ![](/assets/ticdi/wordmarks/Night of the Devils.jpg)
 
 Mellan 2014 och 2019 drev min gode vän [Peter Jilmstad](http://twitter.com/signorwardh) och jag [en klubb i Stockholm ägnad åt italiensk genrefilm](http://www.ticdifilmklubb.com). Ett av de främsta nöjena med verksamheten var tillfället att utforma titel-logotyper för varje film vi visade. 'Briefen' jag gav mig själv var att de skulle uppfattas som tidstypiska och kongeniala med filmens ton och tema, vilket förutsatte en del research. 
+
+### Ett urval av promotionbilder för Tutti i Colori dell'Italia
 
 {% include image-gallery.html folder="/assets/galleries/ticdi" %}
 

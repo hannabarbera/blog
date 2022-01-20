@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Jesper Wiking</title>
- <link href="https://jesperwiking.com/atom.xml" rel="self"/>
- <link href="https://jesperwiking.com/"/>
- <updated>2022-01-20T16:38:27+01:00</updated>
- <id>https://jesperwiking.com</id>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2022-01-20T16:54:03+01:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email>wiking@hey.com</email>
@@ -14,12 +14,14 @@
  
  <entry>
    <title>Fasansfulla ord</title>
-   <link href="https://jesperwiking.com/2019/01/07/fasansfulla-ord"/>
+   <link href="http://localhost:4000/2019/01/07/fasansfulla-ord"/>
    <updated>2019-01-07T00:00:00+01:00</updated>
-   <id>https://jesperwiking.com/2019/01/07/fasansfulla-ord</id>
+   <id>http://localhost:4000/2019/01/07/fasansfulla-ord</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/ticdi/wordmarks/Night of the Devils.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Mellan 2014 och 2019 drev min gode vän &lt;a href=&quot;http://twitter.com/signorwardh&quot;&gt;Peter Jilmstad&lt;/a&gt; och jag &lt;a href=&quot;http://www.ticdifilmklubb.com&quot;&gt;en klubb i Stockholm ägnad åt italiensk genrefilm&lt;/a&gt;. Ett av de främsta nöjena med verksamheten var tillfället att utforma titel-logotyper för varje film vi visade. ‘Briefen’ jag gav mig själv var att de skulle uppfattas som tidstypiska och kongeniala med filmens ton och tema, vilket förutsatte en del research.&lt;/p&gt;
+
+&lt;h3 id=&quot;ett-urval-av-promotionbilder-för-tutti-i-colori-dellitalia&quot;&gt;Ett urval av promotionbilder för Tutti i Colori dell’Italia&lt;/h3&gt;
 
 &lt;style&gt;
     .image-gallery {overflow: auto; margin-left: -1%!important;}
@@ -29,7 +31,7 @@
     .image-gallery li a img {width: 100%; display: block;}
 &lt;/style&gt;
 
-&lt;ul class=&quot;image-gallery&quot;&gt;&lt;li&gt;&lt;a href=&quot;/assets/galleries/ticdi/art-atlantic-interceptors.jpg&quot; title=&quot;art-atlantic-interceptors&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=jesperwiking.com/assets/galleries/ticdi/art-atlantic-interceptors.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art-atlantic-interceptors&quot; title=&quot;art-atlantic-interceptors&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/galleries/ticdi/art-big-guns.jpg&quot; title=&quot;art-big-guns&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=jesperwiking.com/assets/galleries/ticdi/art-big-guns.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art-big-guns&quot; title=&quot;art-big-guns&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/galleries/ticdi/art-diabolik.jpg&quot; title=&quot;art-diabolik&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=jesperwiking.com/assets/galleries/ticdi/art-diabolik.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art-diabolik&quot; title=&quot;art-diabolik&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/galleries/ticdi/art-hercules.jpg&quot; title=&quot;art-hercules&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=jesperwiking.com/assets/galleries/ticdi/art-hercules.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art-hercules&quot; title=&quot;art-hercules&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/galleries/ticdi/art-queens-of-evil.jpg&quot; title=&quot;art-queens-of-evil&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=jesperwiking.com/assets/galleries/ticdi/art-queens-of-evil.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art-queens-of-evil&quot; title=&quot;art-queens-of-evil&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/galleries/ticdi/art-sudden-justice.jpg&quot; title=&quot;art-sudden-justice&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=jesperwiking.com/assets/galleries/ticdi/art-sudden-justice.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art-sudden-justice&quot; title=&quot;art-sudden-justice&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/galleries/ticdi/art-the-psychic.jpg&quot; title=&quot;art-the-psychic&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=jesperwiking.com/assets/galleries/ticdi/art-the-psychic.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art-the-psychic&quot; title=&quot;art-the-psychic&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;ul class=&quot;image-gallery&quot;&gt;&lt;li&gt;&lt;a href=&quot;/assets/galleries/ticdi/art-atlantic-interceptors.jpg&quot; title=&quot;art-atlantic-interceptors&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/galleries/ticdi/art-atlantic-interceptors.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art-atlantic-interceptors&quot; title=&quot;art-atlantic-interceptors&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/galleries/ticdi/art-big-guns.jpg&quot; title=&quot;art-big-guns&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/galleries/ticdi/art-big-guns.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art-big-guns&quot; title=&quot;art-big-guns&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/galleries/ticdi/art-diabolik.jpg&quot; title=&quot;art-diabolik&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/galleries/ticdi/art-diabolik.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art-diabolik&quot; title=&quot;art-diabolik&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/galleries/ticdi/art-hercules.jpg&quot; title=&quot;art-hercules&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/galleries/ticdi/art-hercules.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art-hercules&quot; title=&quot;art-hercules&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/galleries/ticdi/art-queens-of-evil.jpg&quot; title=&quot;art-queens-of-evil&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/galleries/ticdi/art-queens-of-evil.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art-queens-of-evil&quot; title=&quot;art-queens-of-evil&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/galleries/ticdi/art-sudden-justice.jpg&quot; title=&quot;art-sudden-justice&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/galleries/ticdi/art-sudden-justice.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art-sudden-justice&quot; title=&quot;art-sudden-justice&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/galleries/ticdi/art-the-psychic.jpg&quot; title=&quot;art-the-psychic&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/galleries/ticdi/art-the-psychic.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art-the-psychic&quot; title=&quot;art-the-psychic&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
 
 &lt;p&gt;När man ägnar sig åt ett tidsförankrat estetiskt uttryck — ofta kallat &lt;em&gt;retro&lt;/em&gt; — så bör man beakta att minnet av hur någonting ser ut oftast överträffar sanningen. Uppdraget blir således att formuttrycket ska &lt;em&gt;kännas&lt;/em&gt; rätt snarare än att &lt;em&gt;vara&lt;/em&gt; rätt. Formgivarens roll är att vara kommunikatör, inte förfalskare.&lt;/p&gt;
 
@@ -38,9 +40,9 @@
  
  <entry>
    <title>Skratt och rysningar i moderna vampyrklassikern Fright Night</title>
-   <link href="https://jesperwiking.com/2018/07/31/fright-night"/>
+   <link href="http://localhost:4000/2018/07/31/fright-night"/>
    <updated>2018-07-31T00:00:00+02:00</updated>
-   <id>https://jesperwiking.com/2018/07/31/fright-night</id>
+   <id>http://localhost:4000/2018/07/31/fright-night</id>
    <content type="html">&lt;p&gt;Unga vampyrfans uthärdade en åsiktskorridor på 1980-talet. Blodmarinerade sommarkollon var inne, Transylvanien ute. Fick man äran att följa med den tuffaste killen i plugget hem och delta i en efter-skolan-visning av &lt;em&gt;The Burning&lt;/em&gt; på grynig VHS så gällde det att säga ”Wow!” pliktskyldigt när gore-effekterna skvätte över TV-rutan. Att prata sig varm om en rumänsk farbror i mantel och kråsskjorta var helt enkelt inte tillbörligt, man kunde lika gärna skriva &lt;strong&gt;mobba mig&lt;/strong&gt; över pannan med bred spritpenna. Men 1985 kom en film som återgav blodsugarna deras rättmätiga status bland skräckfantaster: &lt;em&gt;Fright Night&lt;/em&gt;, en osedvanligt säker regidebut för Tom Holland (som även gav oss slasherklassikern &lt;em&gt;Child’s Play&lt;/em&gt;) där Dracula-myten korsbefruktades med Hitchcocks &lt;em&gt;Fönstret åt gården.&lt;/em&gt;&lt;/p&gt;
 
 &lt;figure data-aos=&quot;fade-up&quot;&gt;
@@ -63,9 +65,9 @@
  
  <entry>
    <title>Tryggt mysrys i typiska 90-talsslashern Urban Legend</title>
-   <link href="https://jesperwiking.com/2018/07/27/urban-legend"/>
+   <link href="http://localhost:4000/2018/07/27/urban-legend"/>
    <updated>2018-07-27T00:00:00+02:00</updated>
-   <id>https://jesperwiking.com/2018/07/27/urban-legend</id>
+   <id>http://localhost:4000/2018/07/27/urban-legend</id>
    <content type="html">&lt;p&gt;Inklämda mellan 80-talets blodigt kreativa slasherfilmer och det nya millenniets hypervåldsamma tortyrporr kan 90-talets tonårsskräckisar te sig själlösa, marknadsanpassade och pissljumma. En prosaisk stapelvara för apatiska ungdomar att snabbkonsumera på närmsta multiplex.&lt;/p&gt;
 
 &lt;p&gt;I erans epicentrum ses den briljanta &lt;em&gt;Scream,&lt;/em&gt; Wes Cravens subversiva kioskvältare från 1992, som (i styv konkurrens med &lt;em&gt;Pulp Fiction&lt;/em&gt;) har orsakat Hollywoods största flodvåg av mediokra plagiat.&lt;/p&gt;
@@ -84,9 +86,9 @@
  
  <entry>
    <title>Oöverträfflig skräck i John Carpenters mästerverk The Thing</title>
-   <link href="https://jesperwiking.com/2018/07/25/the-thing"/>
+   <link href="http://localhost:4000/2018/07/25/the-thing"/>
    <updated>2018-07-25T00:00:00+02:00</updated>
-   <id>https://jesperwiking.com/2018/07/25/the-thing</id>
+   <id>http://localhost:4000/2018/07/25/the-thing</id>
    <content type="html">&lt;blockquote&gt;
   &lt;p&gt;–You’re gonna have to sleep sometime, MacReady…&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -109,9 +111,9 @@
  
  <entry>
    <title>Visionärt klimax i underskattade Mad Max Beyond Thunderdome</title>
-   <link href="https://jesperwiking.com/2018/07/25/mad-max-beyond-thunderdome"/>
+   <link href="http://localhost:4000/2018/07/25/mad-max-beyond-thunderdome"/>
    <updated>2018-07-25T00:00:00+02:00</updated>
-   <id>https://jesperwiking.com/2018/07/25/mad-max-beyond-thunderdome</id>
+   <id>http://localhost:4000/2018/07/25/mad-max-beyond-thunderdome</id>
    <content type="html">&lt;blockquote&gt;
   &lt;p&gt;But he’s just a raggedy-man?&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -143,9 +145,9 @@
  
  <entry>
    <title>Happy End – Hanekes familjekomedi ger kalla kårar</title>
-   <link href="https://jesperwiking.com/2018/02/09/happy-end"/>
+   <link href="http://localhost:4000/2018/02/09/happy-end"/>
    <updated>2018-02-09T00:00:00+01:00</updated>
-   <id>https://jesperwiking.com/2018/02/09/happy-end</id>
+   <id>http://localhost:4000/2018/02/09/happy-end</id>
    <content type="html">&lt;p&gt;Michael Haneke är nog vår tids främste skildrare av den moderna människans obrydda glidfärd in i sociopatins empatiska vakuum. Men efter att hans &lt;em&gt;Amour&lt;/em&gt; (2012) gjorde sådan succé med sin avvikande intima och innerliga ton blev vissa uppskattare oroliga att den stränge österrikaren skulle lägga sin kulna världssyn på hyllan och fortsatt hänge sig åt känslopjunk. Hans senaste film grusar dock sådana farhågor. Har man läxats upp i biomörkret av Haneke tidigare så känner man ett masochistiskt rys skölja över en redan i inledningen av &lt;em&gt;Happy End&lt;/em&gt;. Behöver jag nämna att titeln är ironisk?&lt;/p&gt;
 
 &lt;p&gt;I skydd av en nedsläckt halls dunkel filmar en flicka med en mobiltelefon sin mors läggdagsritual. Hånfullt redovisande kommenterar hon varje steg av moderns badrumsrutiner på Snapchat: borsta; spotta, skölja, kamma, posera, släcka lyset. En slagkraftig och för regissören typisk skildring av hur digital media avtrubbar vår beröringsförmåga.&lt;/p&gt;
@@ -172,9 +174,9 @@ Fantine Harduin
  
  <entry>
    <title>Årets gladaste tv-upptäckter (2017)</title>
-   <link href="https://jesperwiking.com/2017/12/29/tv-upptackter-2017"/>
+   <link href="http://localhost:4000/2017/12/29/tv-upptackter-2017"/>
    <updated>2017-12-29T00:00:00+01:00</updated>
-   <id>https://jesperwiking.com/2017/12/29/tv-upptackter-2017</id>
+   <id>http://localhost:4000/2017/12/29/tv-upptackter-2017</id>
    <content type="html">&lt;p&gt;Även om jag ser och emellanåt njuter av nya serier så blickar jag oftast bakåt. Det finns så mycket ljuvlig årgångs-tv att ta del av. Således lämnar jag betygsättningen av nya produktioner åt mer initierade förmågor. Den här listan lyfter i stället fram mina fem gladaste (åter)upptäckter under året som gått:&lt;/p&gt;
 
 &lt;h2 id=&quot;the-comic-strip-presents&quot;&gt;The Comic Strip Presents…&lt;/h2&gt;
@@ -230,9 +232,9 @@ Fantine Harduin
  
  <entry>
    <title>Mordet på Orientexpressen: Matinémys av den gamla skolan</title>
-   <link href="https://jesperwiking.com/2017/11/27/mordet-pa-orientexpressen"/>
+   <link href="http://localhost:4000/2017/11/27/mordet-pa-orientexpressen"/>
    <updated>2017-11-27T00:00:00+01:00</updated>
-   <id>https://jesperwiking.com/2017/11/27/mordet-pa-orientexpressen</id>
+   <id>http://localhost:4000/2017/11/27/mordet-pa-orientexpressen</id>
    <content type="html">&lt;p&gt;Finns det ett säkrare kort för den flärdlystne än en Agatha Christie-filmatisering? Hennes blotta namn frammanar varma åminnelser av en värld iklädd träpaneler, befolkad av pensionerade överstar, landsortsläkare och skvallersugna grevinnor. Ett pipröksdimmigt fantasirike väsensskilt från de solkiga fonder som återges i den numera globalt dominerande procedur-deckaren. Mordrotelns luggslitna tröskverk och deras samvetsgranna dörrknackande lyser med sin frånvaro. Rättvisans skipare är snarare dilettanter på jakt efter intellektuellt tidsfördriv. För Christies hjältar är ett trippelmord att likställa med ett snårigt helg-sudoku, och den mest porträtterade av dessa är den belgiske privatdetektiven Hercule Poirot. Dryga trettiotalet skådespelare har tagit sig an rollen sedan Charles Laughton beträdde tiljorna i en omarbetning av &lt;em&gt;Dolken från Tunis&lt;/em&gt; 1928, och nu har även Kenneth Branagh dragit på sig damaskerna i sin nyfilmatisering av &lt;em&gt;Mordet på Orientexpressen&lt;/em&gt;.&lt;/p&gt;
 
 &lt;figure data-aos=&quot;fade-up&quot;&gt;
@@ -257,9 +259,9 @@ Fantine Harduin
  
  <entry>
    <title>Tobe Hooper ger allt i vansinniga vampyrspektaklet Life Force</title>
-   <link href="https://jesperwiking.com/2017/11/02/life-force"/>
+   <link href="http://localhost:4000/2017/11/02/life-force"/>
    <updated>2017-11-02T00:00:00+01:00</updated>
-   <id>https://jesperwiking.com/2017/11/02/life-force</id>
+   <id>http://localhost:4000/2017/11/02/life-force</id>
    <content type="html">&lt;p&gt;Rymdfärjan Churchill upptäcker ett enormt skepp gömt i svansen på Halleys komet. Inuti farkosten hittar överste Carlsen (Steve Railsback) och hans manskap tusentals mumifierade jättefladdermöss och tre skendöda, nakna människor av det läckra slaget. Astronauterna beslutar att ta med sig den märkliga trion hem. Vid ankomst till jorden vaknar de komatösa snyggingarna upp, sugna på människobuffé. Överste Carlsen, som har bildat ett telepatiskt band med deras ledare, inleder en kamp mot klockan att fånga henne innan människosläktet utrotas…&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Lifeforce&lt;/em&gt; är löst baserad på kioskromanen &lt;a href=&quot;https://www.goodreads.com/book/show/869314.The_Space_Vampires&quot;&gt;&lt;em&gt;The Space Vampires&lt;/em&gt; (1976)&lt;/a&gt; av psifenomen-vurmaren Colin Wilson, en tidstypiskt misogyn historia där hjälten Carlsen mestadels hänger på ett svenskt gods, klämmer på tuttar och forskar i Greve Magnus De la Gardies påstådda ockultism. Inget av det kom tack och lov med i manuset av genre-formaren Dan O’Bannon. Filmen är Tobe Hoopers knäböjning vid övermåttets altare. Det här var hans chans att göra en riktig Hammer-homage, framförallt Quatermass-historierna, och han tog verkligen i för kung och fosterland. Resultatet är en makalöst bombastisk film, med ett likaledes teatraliskt ledmotiv av Henry Mancini som omedelbart sätter sig på hjärnan.&lt;/p&gt;
@@ -277,9 +279,9 @@ Fantine Harduin
  
  <entry>
    <title>Häxklassikern Suspiria fyller fyrtio år</title>
-   <link href="https://jesperwiking.com/2017/10/31/suspiria"/>
+   <link href="http://localhost:4000/2017/10/31/suspiria"/>
    <updated>2017-10-31T00:00:00+01:00</updated>
-   <id>https://jesperwiking.com/2017/10/31/suspiria</id>
+   <id>http://localhost:4000/2017/10/31/suspiria</id>
    <content type="html">&lt;blockquote&gt;
   &lt;p&gt;»Suzy Banyon decided to perfect her ballet studies in the most famous school of dance in Europe. She chose the celebrated academy of Freiburg. One day, at nine in the morning, she left Kennedy airport, New York, and arrived in Germany at 10:40 p.m. local time.«&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -313,9 +315,9 @@ Fantine Harduin
  
  <entry>
    <title>Isande skärseld i Paul Andersons Event Horizon</title>
-   <link href="https://jesperwiking.com/2017/10/31/event-horizon"/>
+   <link href="http://localhost:4000/2017/10/31/event-horizon"/>
    <updated>2017-10-31T00:00:00+01:00</updated>
-   <id>https://jesperwiking.com/2017/10/31/event-horizon</id>
+   <id>http://localhost:4000/2017/10/31/event-horizon</id>
    <content type="html">&lt;p&gt;Det transdimensionella prototypskeppet &lt;em&gt;Event Horizon&lt;/em&gt; försvinner spårlöst på sin jungfrufärd, men dyker upp igen sju år senare i omloppsbana runt Neptunus. Skeppets designer, Dr. William Weir (Sam Neill) skickas iväg med ett räddningsteam lett av kapten Miller (Laurence Fishburne) för att undersöka. Vid ankomst upptäcker dom ett spökskepp utan besättning. Trots det är fartyget fullt av livstecken, men inte mänskliga…&lt;/p&gt;
 
 &lt;figure data-aos=&quot;fade-up&quot;&gt;
@@ -335,9 +337,9 @@ Fantine Harduin
  
  <entry>
    <title>Tidig julafton för giallo-fans – Argentokavalkad på VOD!</title>
-   <link href="https://jesperwiking.com/2017/10/30/argento-pa-vod"/>
+   <link href="http://localhost:4000/2017/10/30/argento-pa-vod"/>
    <updated>2017-10-30T00:00:00+01:00</updated>
-   <id>https://jesperwiking.com/2017/10/30/argento-pa-vod</id>
+   <id>http://localhost:4000/2017/10/30/argento-pa-vod</id>
    <content type="html">&lt;p&gt;&lt;em&gt;Giallo&lt;/em&gt; betyder &lt;em&gt;gul&lt;/em&gt; på italienska, vilket var omslagsfärgen på en mångårigt populär serie pocketdeckare i italien—och för italienska filmtittare är det synonymt med “thriller” , det vill säga allt från t.ex. &lt;em&gt;Gasljus&lt;/em&gt; till &lt;em&gt;När lammen tystnar&lt;/em&gt;. Utanför landets gränser är kriterierna snävare. Där står begreppet för en underkategori av braskande iscensatta mysterier med ett tungt fokus på slippriga mordscener. Filmerna utspelar sig som oftast i en urban miljö befolkad av fotomodeller och jet set-typer som går gruvliga öden till mötes i modernt inredda lyxlägenheter. Giallon är också en markant auteurdriven genre där varje regissör trots tid- och budget-mässiga begränsningar lyckades sätta sin högst personliga prägel på verken. En Mario Bava-film känns exempelvis alltid igen på hans måleriska kompositioner och grälla färger, medan Dario Argentos signaturgrepp kan sägas vara en desorienterade kamerateknik, skarp ljussättning och extremt musikbruk.&lt;/p&gt;
 
 &lt;p&gt;Nu, i samband med fyrtioårsjubileet av det bloddränkta mästerverket &lt;em&gt;Suspiria&lt;/em&gt; släpps en svit av just Dario Argentos filmer till en streamingtjänst nära dig. Inte ett självklart glädjebud för sparsmakade giallo-konsumenter, då Argento i likhet med John Carpenter och Tobe Hooper hör till den kategori av kultregissörer vars verkshöjd har dalat med skoningslös konsekvens sedan nittiotalet. Hans två senaste insatser i registolen, &lt;em&gt;Giallo&lt;/em&gt; (2009) och &lt;em&gt;Dracula 3D&lt;/em&gt; (2014) kan få den mest ihärdiga apologet att hastigt byta samtalsämne, och när maestron för tre år sedan bad sina fans att hysta in pengar till Indiegogo-projektet &lt;a href=&quot;https://www.indiegogo.com/projects/dario-argento-s-the-sandman-starring-iggy-pop--2#/&quot;&gt;&lt;em&gt;The Sandman&lt;/em&gt;&lt;/a&gt; kändes bidragen obekvämt nära ett medberoende. Fast i det här fallet kan vänner av rakkniven finna ro, för det som nu kommer till VOD är ett pärlband av regissörens mest uppskattade verk:&lt;/p&gt;
@@ -397,9 +399,9 @@ En stark regidebut som lanserade ett återkommande tema i Argentos filmer: den p
  
  <entry>
    <title>Avvikande antialarmism i Jack Arnolds ”It Came From Outer Space”</title>
-   <link href="https://jesperwiking.com/2017/10/28/it-came-from-outer-space"/>
+   <link href="http://localhost:4000/2017/10/28/it-came-from-outer-space"/>
    <updated>2017-10-28T00:00:00+02:00</updated>
-   <id>https://jesperwiking.com/2017/10/28/it-came-from-outer-space</id>
+   <id>http://localhost:4000/2017/10/28/it-came-from-outer-space</id>
    <content type="html">&lt;p&gt;Sällan har väl vår lilla planet varit så ansatt på vita duken som under den paranoida Eisenhower-eran. I skuggan av det röda hotet och atomvetenskapens förödande kraft stuvades folklorismens bestar in i malpåse och ersattes av nya monster i garderoben: radioaktiva mutationer och invasionsstyrkor från en fjärran galax.&lt;/p&gt;
 
 &lt;p&gt;Att huka i biostolen inför anfallande utomjordingar var ett tacksamt sätt för västerländsk publik att bejaka sin kommunistskräck, vilket lyhörda filmbolag inte var sena att slå mynt på. Sensationella löpsedelstitlar såsom &lt;em&gt;THEM!&lt;/em&gt;; &lt;em&gt;Beginning of the End&lt;/em&gt;; &lt;em&gt;Invasion of the Body Snatchers&lt;/em&gt; och &lt;em&gt;The Day the Earth Stood Still&lt;/em&gt; stack ut i tablåerna och frammanade en dödsångest som gav extra krydda åt fummelhånglen i salongsmörkret—varför hålla på sig när döden står för dörren?—vilket ledde till en uppsjö av filmer där jätteinsekter och gröna gubbar går loss på hjälplösa tonåringar med mordisk frenesi. Bland dessa återfinns den arketypiska scifi-rysaren &lt;em&gt;It Came From Outer Space&lt;/em&gt; (1953).&lt;/p&gt;
@@ -418,9 +420,9 @@ En stark regidebut som lanserade ett återkommande tema i Argentos filmer: den p
  
  <entry>
    <title>Nybörjarguide till Star Trek: Del 3</title>
-   <link href="https://jesperwiking.com/2017/09/27/star-trek-guide-del-3"/>
+   <link href="http://localhost:4000/2017/09/27/star-trek-guide-del-3"/>
    <updated>2017-09-27T00:00:00+02:00</updated>
-   <id>https://jesperwiking.com/2017/09/27/star-trek-guide-del-3</id>
+   <id>http://localhost:4000/2017/09/27/star-trek-guide-del-3</id>
    <content type="html">&lt;p&gt;Idoga läsare av denna guide kan konstatera att vi redan har täckt &lt;em&gt;The Original Series&lt;/em&gt; , &lt;em&gt;The Next Generation&lt;/em&gt;, &lt;em&gt;Deep Space Nine&lt;/em&gt; och &lt;em&gt;Voyager&lt;/em&gt; i &lt;a href=&quot;rymden.co/2017-09-25-star-trek-guide-del-1&quot;&gt;del ett&lt;/a&gt; och &lt;a href=&quot;rymden.co/2017-09-26-star-trek-guide-del-2&quot;&gt;del två&lt;/a&gt; av vår nybörjarguide. Vad återstår, kan man fråga? Jo, två serier som sakteliga har mött ökad acceptans bland fansen, nämligen &lt;em&gt;Star Trek: Enterprise&lt;/em&gt; och &lt;em&gt;Star Trek: The Animated Series&lt;/em&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;star-trek-enterprise-ent&quot;&gt;Star Trek: Enterprise (ENT)&lt;/h2&gt;
@@ -520,9 +522,9 @@ Hin Håle konverserar med Bones, Kirk och Spock i The Magicks of Megas-Tu.
  
  <entry>
    <title>Nybörjarguide till Star Trek: Del 2</title>
-   <link href="https://jesperwiking.com/2017/09/26/star-trek-guide-del-2"/>
+   <link href="http://localhost:4000/2017/09/26/star-trek-guide-del-2"/>
    <updated>2017-09-26T00:00:00+02:00</updated>
-   <id>https://jesperwiking.com/2017/09/26/star-trek-guide-del-2</id>
+   <id>http://localhost:4000/2017/09/26/star-trek-guide-del-2</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;rymden.co/2017-09-25-star-trek-guide-del-1.html&amp;quot;&quot;&gt;I förra delen&lt;/a&gt; tog vi oss an &lt;em&gt;The Original Series&lt;/em&gt; och &lt;em&gt;The Next Generation&lt;/em&gt;, Star Treks hörnstenar. Men om dessa serier ger mersmak, vad ska man då ta sig an?&lt;/p&gt;
 
 &lt;h2 id=&quot;star-trek-deep-space-nine-ds9&quot;&gt;Star Trek: Deep Space Nine (DS9)&lt;/h2&gt;
@@ -629,9 +631,9 @@ Kurtwood Smith som Annorax i Voyager-avsnittet Year of Hell.
  
  <entry>
    <title>Nybörjarguide till Star Trek: Del 1</title>
-   <link href="https://jesperwiking.com/2017/09/25/star-trek-guide-del-1"/>
+   <link href="http://localhost:4000/2017/09/25/star-trek-guide-del-1"/>
    <updated>2017-09-25T00:00:00+02:00</updated>
-   <id>https://jesperwiking.com/2017/09/25/star-trek-guide-del-1</id>
+   <id>http://localhost:4000/2017/09/25/star-trek-guide-del-1</id>
    <content type="html">&lt;blockquote&gt;
   &lt;p&gt;Space, the final frontier. These are the voyages of the Starship Enterprise. Its ongoing mission – to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before…&lt;/p&gt;
 &lt;/blockquote&gt;
