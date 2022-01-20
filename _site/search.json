@@ -2,9 +2,9 @@
   
     {
 
-      "title"    : "My Type of Horror",
+      "title"    : "Fasansfulla ord",
       "description" : "",
-      "url"      : "/2019/01/07/my-type-of-horror",
+      "url"      : "/2019/01/07/fasansfulla-ord",
       "category" : "Design",
       "tags"     : "Skräck, Typografi",
       "date"     : "2019-01-07 00:00:00 +0100"
@@ -52,6 +52,17 @@
       "category" : "Film",
       "tags"     : "Rekommenderat, Science Fiction",
       "date"     : "2018-07-25 00:00:00 +0200"
+
+    } ,
+  
+    {
+
+      "title"    : "Happy End – Hanekes familjekomedi ger kalla kårar",
+      "description" : "",
+      "url"      : "/2018/02/09/happy-end",
+      "category" : "Film",
+      "tags"     : "Recensioner, Film",
+      "date"     : "2018-02-09 00:00:00 +0100"
 
     } ,
   

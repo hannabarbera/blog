@@ -18,26 +18,10 @@ layout: compress
   <script>
     AOS.init();
   </script>
-  {% if page.iis_slider_active %}
-<!-- Slider -->
-<script src="{{ "/js/slider/ideal-image-slider.min.js" | relative_url }}"></script>
-<script src="{{ "/js/slider/iis-bullet-nav.js" | relative_url }}"></script>
-<script src="{{ "/js/slider/iis-captions.js" | relative_url }}"></script>
-<!-- Sliders on pages -->
-{% for script in page.iis_slider_scripts %}
-  {{ script }}
-{% endfor %}
-<!-- Sliders on indexes -->
-{% for post in paginator.posts %}
-  {% for script in post.iis_slider_scripts %}
-    {{ script }}
-  {% endfor %}
-{% endfor %}
-{% endif %}
-
 {% include open-embed.html %}    
-<script src="jquery-3.5.1.min.js"></script>
-<script type="text/javascript" src="/js/lightbox.js"></script>
-<link rel="stylesheet" href="/css/lightbox.css">
+<footer>
+  <script type="text/javascript" src="/js/lightbox.js"></script>
+  
+</footer>
   </body>
 </html>
