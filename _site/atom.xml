@@ -4,13 +4,45 @@
  <title>Jesper Wiking</title>
  <link href="https://jesperwiking.com/atom.xml" rel="self"/>
  <link href="https://jesperwiking.com/"/>
- <updated>2022-01-20T09:36:26+01:00</updated>
+ <updated>2022-01-20T12:07:26+01:00</updated>
  <id>https://jesperwiking.com</id>
  <author>
    <name></name>
    <email>wiking@hey.com</email>
  </author>
 
+ 
+ <entry>
+   <title>My Type of Horror</title>
+   <link href="https://jesperwiking.com/2019/01/07/my-type-of-horror"/>
+   <updated>2019-01-07T00:00:00+01:00</updated>
+   <id>https://jesperwiking.com/2019/01/07/my-type-of-horror</id>
+   <content type="html">&lt;p&gt;Mellan 2014 och 2019 drev min gode vän &lt;a href=&quot;http://twitter.com/signorwardh&quot;&gt;Peter Jilmstad&lt;/a&gt; och jag &lt;a href=&quot;http://www.ticdifilmklubb.com&quot;&gt;en klubb i Stockholm ägnad åt italiensk genrefilm&lt;/a&gt;. Ett av de främsta nöjena med verksamheten var tillfället att utforma titel-logotyper för varje film vi visade. ‘Briefen’ jag gav mig själv var att de skulle uppfattas som tidstypiska och kongeniala med filmens ton och tema, vilket förutsatte en del research.&lt;/p&gt;
+
+&lt;style&gt;
+    .image-gallery {overflow: auto; margin-left: -1%!important;}
+    .image-gallery li {float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
+    .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
+    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery li a img {width: 100%; display: block;}
+&lt;/style&gt;
+
+&lt;ul class=&quot;image-gallery&quot;&gt;&lt;li&gt;&lt;a href=&quot;/assets/ticdi/wordmarks/Hercules.jpg&quot; title=&quot;Hercules&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=jesperwiking.com/assets/ticdi/wordmarks/Hercules.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;Hercules&quot; title=&quot;Hercules&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/ticdi/wordmarks/Le%20Orme.jpg&quot; title=&quot;Le Orme&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=jesperwiking.com/assets/ticdi/wordmarks/Le%20Orme.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;Le Orme&quot; title=&quot;Le Orme&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/ticdi/wordmarks/Night%20of%20the%20Devils.jpg&quot; title=&quot;Night of the Devils&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=jesperwiking.com/assets/ticdi/wordmarks/Night%20of%20the%20Devils.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;Night of the Devils&quot; title=&quot;Night of the Devils&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/ticdi/wordmarks/ticdi-queens-of-evil.jpg&quot; title=&quot;ticdi-queens-of-evil&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=jesperwiking.com/assets/ticdi/wordmarks/ticdi-queens-of-evil.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;ticdi-queens-of-evil&quot; title=&quot;ticdi-queens-of-evil&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/ticdi/wordmarks/ticdi-sudden-justice.jpg&quot; title=&quot;ticdi-sudden-justice&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=jesperwiking.com/assets/ticdi/wordmarks/ticdi-sudden-justice.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;ticdi-sudden-justice&quot; title=&quot;ticdi-sudden-justice&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/ticdi/wordmarks/ticdi-the-living-dead.jpg&quot; title=&quot;ticdi-the-living-dead&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=jesperwiking.com/assets/ticdi/wordmarks/ticdi-the-living-dead.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;ticdi-the-living-dead&quot; title=&quot;ticdi-the-living-dead&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/ticdi/wordmarks/ticdi-the-night-caller.jpg&quot; title=&quot;ticdi-the-night-caller&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=jesperwiking.com/assets/ticdi/wordmarks/ticdi-the-night-caller.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;ticdi-the-night-caller&quot; title=&quot;ticdi-the-night-caller&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/ticdi/wordmarks/ticdi-the-psychic.jpg&quot; title=&quot;ticdi-the-psychic&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=jesperwiking.com/assets/ticdi/wordmarks/ticdi-the-psychic.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;ticdi-the-psychic&quot; title=&quot;ticdi-the-psychic&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;p&gt;När man ägnar sig åt ett tidsförankrat estetiskt uttryck — ofta kallat &lt;em&gt;retro&lt;/em&gt; — så bör man beakta att minnet av hur någonting ser ut oftast överträffar sanningen. Uppdraget blir således att formuttrycket ska &lt;em&gt;kännas&lt;/em&gt; rätt snarare än att &lt;em&gt;vara&lt;/em&gt; rätt. Formgivarens roll är att vara kommunikatör, inte förfalskare.&lt;/p&gt;
+
+&lt;style&gt;
+    .image-gallery {overflow: auto; margin-left: -1%!important;}
+    .image-gallery li {float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
+    .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
+    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery li a img {width: 100%; display: block;}
+&lt;/style&gt;
+
+&lt;ul class=&quot;image-gallery&quot;&gt;&lt;li&gt;&lt;a href=&quot;/assets/ticdi/art/art-atlantic-interceptors.jpg&quot; title=&quot;art-atlantic-interceptors&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=jesperwiking.com/assets/ticdi/art/art-atlantic-interceptors.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art-atlantic-interceptors&quot; title=&quot;art-atlantic-interceptors&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/ticdi/art/art-big-guns.jpg&quot; title=&quot;art-big-guns&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=jesperwiking.com/assets/ticdi/art/art-big-guns.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art-big-guns&quot; title=&quot;art-big-guns&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/ticdi/art/art-diabolik.jpg&quot; title=&quot;art-diabolik&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=jesperwiking.com/assets/ticdi/art/art-diabolik.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art-diabolik&quot; title=&quot;art-diabolik&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/ticdi/art/art-hercules.jpg&quot; title=&quot;art-hercules&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=jesperwiking.com/assets/ticdi/art/art-hercules.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art-hercules&quot; title=&quot;art-hercules&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/ticdi/art/art-queens-of-evil.jpg&quot; title=&quot;art-queens-of-evil&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=jesperwiking.com/assets/ticdi/art/art-queens-of-evil.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art-queens-of-evil&quot; title=&quot;art-queens-of-evil&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/ticdi/art/art-sudden-justice.jpg&quot; title=&quot;art-sudden-justice&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=jesperwiking.com/assets/ticdi/art/art-sudden-justice.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art-sudden-justice&quot; title=&quot;art-sudden-justice&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/ticdi/art/art-the-psychic.jpg&quot; title=&quot;art-the-psychic&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=jesperwiking.com/assets/ticdi/art/art-the-psychic.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art-the-psychic&quot; title=&quot;art-the-psychic&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Skratt och rysningar i moderna vampyrklassikern Fright Night</title>
