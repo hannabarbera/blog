@@ -13,7 +13,7 @@
     background: $barney;
     }
   @include tablet {
-    background: $kermit;
+    background: $tomato;
     }
   @include desktop {
     background: $panam;
@@ -26,7 +26,7 @@
     background-color: $barney;
     }
   @include tablet {
-    background-color: $kermit;
+    background-color: $tomato;
     }
   @include desktop {
     background-color: $panam;
@@ -38,7 +38,7 @@
     color: $barney;
     }
   @include tablet {
-    color: $kermit;
+    color: $tomato;
     }
   @include desktop {
     color: $panam;
@@ -50,7 +50,7 @@
     border-color: $barney;
     }
   @include tablet {
-    border-color: $kermit;
+    border-color: $tomato;
     }
   @include desktop {
     border-color: $panam;

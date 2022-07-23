@@ -4,39 +4,13 @@
  <title>Jesper Wiking</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2022-01-20T16:54:03+01:00</updated>
+ <updated>2022-07-23T12:16:22+02:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email>wiking@hey.com</email>
  </author>
 
- 
- <entry>
-   <title>Fasansfulla ord</title>
-   <link href="http://localhost:4000/2019/01/07/fasansfulla-ord"/>
-   <updated>2019-01-07T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2019/01/07/fasansfulla-ord</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/ticdi/wordmarks/Night of the Devils.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Mellan 2014 och 2019 drev min gode vän &lt;a href=&quot;http://twitter.com/signorwardh&quot;&gt;Peter Jilmstad&lt;/a&gt; och jag &lt;a href=&quot;http://www.ticdifilmklubb.com&quot;&gt;en klubb i Stockholm ägnad åt italiensk genrefilm&lt;/a&gt;. Ett av de främsta nöjena med verksamheten var tillfället att utforma titel-logotyper för varje film vi visade. ‘Briefen’ jag gav mig själv var att de skulle uppfattas som tidstypiska och kongeniala med filmens ton och tema, vilket förutsatte en del research.&lt;/p&gt;
-
-&lt;h3 id=&quot;ett-urval-av-promotionbilder-för-tutti-i-colori-dellitalia&quot;&gt;Ett urval av promotionbilder för Tutti i Colori dell’Italia&lt;/h3&gt;
-
-&lt;style&gt;
-    .image-gallery {overflow: auto; margin-left: -1%!important;}
-    .image-gallery li {float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
-    .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
-    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
-    .image-gallery li a img {width: 100%; display: block;}
-&lt;/style&gt;
-
-&lt;ul class=&quot;image-gallery&quot;&gt;&lt;li&gt;&lt;a href=&quot;/assets/galleries/ticdi/art-atlantic-interceptors.jpg&quot; title=&quot;art-atlantic-interceptors&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/galleries/ticdi/art-atlantic-interceptors.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art-atlantic-interceptors&quot; title=&quot;art-atlantic-interceptors&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/galleries/ticdi/art-big-guns.jpg&quot; title=&quot;art-big-guns&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/galleries/ticdi/art-big-guns.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art-big-guns&quot; title=&quot;art-big-guns&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/galleries/ticdi/art-diabolik.jpg&quot; title=&quot;art-diabolik&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/galleries/ticdi/art-diabolik.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art-diabolik&quot; title=&quot;art-diabolik&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/galleries/ticdi/art-hercules.jpg&quot; title=&quot;art-hercules&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/galleries/ticdi/art-hercules.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art-hercules&quot; title=&quot;art-hercules&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/galleries/ticdi/art-queens-of-evil.jpg&quot; title=&quot;art-queens-of-evil&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/galleries/ticdi/art-queens-of-evil.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art-queens-of-evil&quot; title=&quot;art-queens-of-evil&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/galleries/ticdi/art-sudden-justice.jpg&quot; title=&quot;art-sudden-justice&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/galleries/ticdi/art-sudden-justice.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art-sudden-justice&quot; title=&quot;art-sudden-justice&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/galleries/ticdi/art-the-psychic.jpg&quot; title=&quot;art-the-psychic&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/galleries/ticdi/art-the-psychic.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art-the-psychic&quot; title=&quot;art-the-psychic&quot; /&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-
-&lt;p&gt;När man ägnar sig åt ett tidsförankrat estetiskt uttryck — ofta kallat &lt;em&gt;retro&lt;/em&gt; — så bör man beakta att minnet av hur någonting ser ut oftast överträffar sanningen. Uppdraget blir således att formuttrycket ska &lt;em&gt;kännas&lt;/em&gt; rätt snarare än att &lt;em&gt;vara&lt;/em&gt; rätt. Formgivarens roll är att vara kommunikatör, inte förfalskare.&lt;/p&gt;
-
-</content>
- </entry>
  
  <entry>
    <title>Skratt och rysningar i moderna vampyrklassikern Fright Night</title>
@@ -286,12 +260,16 @@ Fantine Harduin
   &lt;p&gt;»Suzy Banyon decided to perfect her ballet studies in the most famous school of dance in Europe. She chose the celebrated academy of Freiburg. One day, at nine in the morning, she left Kennedy airport, New York, and arrived in Germany at 10:40 p.m. local time.«&lt;/p&gt;
 &lt;/blockquote&gt;
 
+&lt;figure data-aos=&quot;fade-up&quot;&gt;
+&lt;img src=&quot;/assets/Suspiria/5.jpg&quot; /&gt;
+&lt;/figure&gt;
+
 &lt;p&gt;Det är ingen slump att Dario Argentos suggestiva mästerverk &lt;em&gt;Suspiria&lt;/em&gt; öppnar med en sagoinledning, den behagliga berättarrösten kunde likaväl ha pratat om Hans och Greta. &lt;em&gt;Suspiria&lt;/em&gt; är nämligen en film om häxor, den första delen i Argentos Cinematic Universe om &lt;em&gt;De tre mödrarna&lt;/em&gt;: Mater Suspiriorum; Mater Tenebrarum och Mater Lachrymarum, varav den sistnämnda utgör slutbossen i regissörens fesljummet emottagna &lt;em&gt;Mother of Tears (La terza madre)&lt;/em&gt; som kom 2007.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Suspiria&lt;/em&gt; ses av många som zenitpunkten i Argentos verkförteckning. Efter ett smatterband av framgångsrika kioskdeckarfilmer släppte han konventionerna och lät lillhjärnan styra. Det lönade sig. När Argento låg på topp var han en dissonansens virtuos, svåröverträffad skildrare av en förnimbart skev verklighet där rollfigurerna irrar genom handlingen enligt febrig drömlogik.&lt;/p&gt;
 
 &lt;figure data-aos=&quot;fade-up&quot;&gt;
-&lt;img src=&quot;http://tvdags.se/blog/wp-content/uploads/2017/10/suspiria-301.jpg&quot; /&gt;
+&lt;img src=&quot;/assets/Suspiria/1.jpg&quot; /&gt;
 &lt;figcaption&gt;
 —Suzy, do you know anything about… witches?
 &lt;/figcaption&gt;
@@ -300,12 +278,12 @@ Fantine Harduin
 &lt;p&gt;Filmens premiss kan beskrivas som &lt;em&gt;Kitty får en kniv&lt;/em&gt;, där duktiga flickan Suzy Banyon (Jessica Harper) leker amatördetektiv efter att elever på hennes dansskola börjar försvinna under mystiska omständigheter. Raskt upptäcker hon att lärarna och skolans gäckande grundare har diaboliska avsikter. Rent stilistiskt är dock filmen något annat. Från första sekund sveps betraktaren med i en malström av smärtsamt övermättade färger och demoniskt kacklande strängspel. Och blod. Djuprött, ymnigt flödande blod.&lt;/p&gt;
 
 &lt;figure data-aos=&quot;fade-up&quot;&gt;
-&lt;img src=&quot;http://tvdags.se/blog/wp-content/uploads/2017/10/suspiria-2.jpg&quot; /&gt;
+&lt;img src=&quot;/assets/Suspiria/4.jpg&quot; /&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;Undanskuffad i frontalattacken mot sinnena återfinns en något valhänt hanterad intrig, men det kan förlåtas. Argento är inte brydd kring det rationella, enbart det instinktiva. Hans plogfåra går genom våra fobier på ett djup som får kroppen att skruva sig. Kamerans blick, oförmögen att ingripa, blir vår ställföreträdare som i vanmakt tvingas bevittna hur nattmaran löper mot sitt oundvikliga slut. Här är Jessica Harper perfekt som den storögda men obevekliga Suzy, publikens trygga reskamrat på den mörka häxfärden.&lt;/p&gt;
 &lt;figure data-aos=&quot;fade-up&quot;&gt;
-&lt;img src=&quot;http://tvdags.se/blog/wp-content/uploads/2017/10/suspiria-3.jpg&quot; /&gt;
+&lt;img src=&quot;/assets/Suspiria/2.jpg&quot; /&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;Men briljansen i &lt;em&gt;Suspiria&lt;/em&gt; är inte enbart regissörens. De italienska proggrockarna i bandet Goblin vrider upp olusten till elva med sin &lt;a href=&quot;https://www.youtube.com/watch?v=QkZ2rdbDHM4&quot;&gt;utomvärdsligt skärrande tonsättning&lt;/a&gt;, en samling hypnotiska kompositioner som har förärat gruppen en tornande status bland genrefans. Fotograflegendaren Luciano Tovolis ändlöst glidande kamera och scenografierna stöpta i magisk realism av Giuseppe Bassan hjälper också till att fullända det extatiska vansinnet i denna mardrömmarnas perenn.&lt;/p&gt;
@@ -450,7 +428,7 @@ Travis Mayweather (Anthony Montgomery), Malcolm Reed (Dominic Keating), T’Pol 
 &lt;dl&gt;
 &lt;dt&gt;Broken Bow (säsong 1)&lt;/dt&gt;
 
-&lt;dd&gt;Enterprise-besättningen trotsar Vulcan-rådets rekommendationer och gör sin jungfruresa mot Klingonernas hemvärld Qo&apos;noS för att överlämna en skadad artfrände. På vägen tar uppdraget en olycklig vändning när deras passagerare blir kidnappad. Trots bakslaget vägrar Archer att åka hem med svansen mellan benen. Ett charmigt, famlande pilotavsnitt som visar hur extremt oförberedda den mänskliga besättningen är i sina första möten med främmande arter.&lt;/dd&gt;
+&lt;dd&gt;Enterprise-besättningen trotsar Vulcan-rådets rekommendationer och gör sin jungfruresa mot Klingonernas hemvärld Qo'noS för att överlämna en skadad artfrände. På vägen tar uppdraget en olycklig vändning när deras passagerare blir kidnappad. Trots bakslaget vägrar Archer att åka hem med svansen mellan benen. Ett charmigt, famlande pilotavsnitt som visar hur extremt oförberedda den mänskliga besättningen är i sina första möten med främmande arter.&lt;/dd&gt;
 
 &lt;dt&gt;The Andorian Incident (säsong 1)&lt;/dt&gt;
 
@@ -469,7 +447,7 @@ Travis Mayweather (Anthony Montgomery), Malcolm Reed (Dominic Keating), T’Pol 
 &lt;figure data-aos=&quot;fade-up&quot;&gt;
 &lt;img src=&quot;/assets/st-ent-carbon-creek.jpg&quot; /&gt;
 &lt;figcaption&gt;
-Mestral och T&apos;mir i 1950-talsavsnittet Carbon Creek.
+Mestral och T'mir i 1950-talsavsnittet Carbon Creek.
 &lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -755,7 +733,7 @@ David Warner som Gul Madred i det klassiska dubbelavsnittet Chain of Command
 &lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;Trots sju matiga säsonger duggar höjdpunkterna tätt i TNG, av både det intima och det episka slaget. Se till att även se &lt;a href=&quot;https://www.wikiwand.com/en/Darmok&quot;&gt;Darmok&lt;/a&gt;, &lt;a href=&quot;https://www.wikiwand.com/en/Yesterday&apos;s_Enterprise&quot;&gt;Yesterday’s Enterprise&lt;/a&gt;, &lt;a href=&quot;https://www.wikiwand.com/en/The_Measure_of_a_Man_(Star_Trek:_The_Next_Generation)&quot;&gt;The Measure of a Man&lt;/a&gt;, &lt;a href=&quot;https://www.wikiwand.com/en/The_Inner_Light_(Star_Trek:_The_Next_Generation)&quot;&gt;The Inner Light&lt;/a&gt; och &lt;a href=&quot;https://www.wikiwand.com/en/The_Best_of_Both_Worlds_(Star_Trek:_The_Next_Generation)&quot;&gt;The Best of Both Worlds&lt;/a&gt; för att få ut det mesta av denna juvel i &lt;em&gt;Star Trek&lt;/em&gt;-kronan.&lt;/p&gt;
+&lt;p&gt;Trots sju matiga säsonger duggar höjdpunkterna tätt i TNG, av både det intima och det episka slaget. Se till att även se &lt;a href=&quot;https://www.wikiwand.com/en/Darmok&quot;&gt;Darmok&lt;/a&gt;, &lt;a href=&quot;https://www.wikiwand.com/en/Yesterday's_Enterprise&quot;&gt;Yesterday’s Enterprise&lt;/a&gt;, &lt;a href=&quot;https://www.wikiwand.com/en/The_Measure_of_a_Man_(Star_Trek:_The_Next_Generation)&quot;&gt;The Measure of a Man&lt;/a&gt;, &lt;a href=&quot;https://www.wikiwand.com/en/The_Inner_Light_(Star_Trek:_The_Next_Generation)&quot;&gt;The Inner Light&lt;/a&gt; och &lt;a href=&quot;https://www.wikiwand.com/en/The_Best_of_Both_Worlds_(Star_Trek:_The_Next_Generation)&quot;&gt;The Best of Both Worlds&lt;/a&gt; för att få ut det mesta av denna juvel i &lt;em&gt;Star Trek&lt;/em&gt;-kronan.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;The Original Series&lt;/em&gt; och &lt;em&gt;The Next Generation&lt;/em&gt; utgör grunderna i mytologin. Har du avverkat dessa två serier så är du en kvalificerad Trekker och kan beställa en &lt;a href=&quot;http://memory-beta.wikia.com/wiki/Samarian_sunset&quot;&gt;&lt;em&gt;Samarian Sunset&lt;/em&gt;&lt;/a&gt; på AW:n utan att darra på manschetten.&lt;/p&gt;
 

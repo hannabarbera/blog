@@ -1,13 +1,9 @@
----
-layout: page
-title: About
----
-![](../assets/jesper.gif)
+I"�<p><img src="../assets/jesper.gif" alt="" /></p>
 
-Grafisk designer, filmskribent och poddproducent med hemvist i Stockholm.
-Här publicerar jag film och designrelaterat material i text och bildform.
+<p>Grafisk designer, filmskribent och poddproducent med hemvist i Stockholm.
+Här publicerar jag film och designrelaterat material i text och bildform.</p>
 
-## Externt
+<h2 id="externt">Externt</h2>
 
 <dl>
   <dt>
@@ -19,14 +15,14 @@ Här publicerar jag film och designrelaterat material i text och bildform.
       En månatlig podcast om film
     </dd>
   <dt>
-    <a href="/ticdi/www/index.html">
+    <a href="http://ticdifilmklubb.com">
         Tutti i Colori dell'Italia
     </a>
     <dd>
       En bioklubb med fokus på italiensk exploateringsfilm
     </dd>
   <dt>
-    <a href="/spotify/www/index.html">
+    <a href="/spotify/">
         Musiktypologier
     </a>
   </dt>
@@ -65,3 +61,5 @@ Här publicerar jag film och designrelaterat material i text och bildform.
     <dd>
       Magiska filmscener
      </dd>
+</dt></dl>
+:ET

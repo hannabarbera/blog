@@ -1,13 +1,9 @@
----
-layout: page
-title: About
----
-![](../assets/jesper.gif)
+I"<p><img src="../assets/jesper.gif" alt="" /></p>
 
-Grafisk designer, filmskribent och poddproducent med hemvist i Stockholm.
-Här publicerar jag film och designrelaterat material i text och bildform.
+<p>Grafisk designer, filmskribent och poddproducent med hemvist i Stockholm.
+Här publicerar jag film och designrelaterat material i text och bildform.</p>
 
-## Externt
+<h2 id="externt">Externt</h2>
 
 <dl>
   <dt>
@@ -65,3 +61,5 @@ Här publicerar jag film och designrelaterat material i text och bildform.
     <dd>
       Magiska filmscener
      </dd>
+</dt></dl>
+:ET
