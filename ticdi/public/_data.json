@@ -1,0 +1,140 @@
+{
+    "1": {
+    "image": "img/01.jpg",
+    "title": "Eurocrime!",
+    "description": "Mike Malloy",
+    "url": "http://www.imdb.com/title/tt2015367"
+    },
+    "2": {
+    "image": "img/02.jpg",
+    "title": "Il grande silenzio",
+    "description": "Sergio Corbucci",
+    "url": "http://www.imdb.com/title/tt0063032"
+    },
+      "3": {
+      "image": "img/03.jpg",
+      "title": "Il profumo della signora in nero",
+      "description": "Francesco Barilli",
+      "url": "http://www.imdb.com/title/tt0063032"
+    },
+      "4": {
+      "image": "img/04.jpg",
+      "title": "Tutti i colori del buio",
+      "description": "Sergio Martino",
+      "url": "http://www.imdb.com/title/tt0069390"
+    },
+        "5": {
+        "image": "img/05.jpg",
+        "title": "Zeder",
+        "description": "Pupi Avati",
+        "url": "http://www.imdb.com/title/tt0086636"
+    },
+        "6": {
+        "image": "img/06.jpg",
+        "title": "Roma a mano armata",
+        "description": "Umberto Lenzi",
+        "url": "http://www.imdb.com/title/tt0075152"
+    },
+        "7": {
+        "image": "img/07.jpg",
+        "title": "La dama rossa uccide sette volte",
+        "description": "Emilio Miraglia",
+        "url": "http://www.imdb.com/title/tt0068444"
+    },
+        "8": {
+        "image": "img/08.jpg",
+        "title": "Confessione di un commissario di polizia al procuratore della repubblica",
+        "description": "Damiano Damiani",
+        "url": "http://www.imdb.com/title/tt0066940"
+    },
+      "9": {
+      "image": "img/09.jpg",
+      "title": "The Horrible Dr. Hichcock, Hades & Suspiria",
+      "description": "Riccardo Freda, Kevin Kopacka & Dario Argento",
+      "url": "https://www.facebook.com/events/701138583320096/"
+    },
+      "10": {
+      "image": "img/10.jpg",
+      "title": "The Three Sisters",
+      "description": "Dáire McNab",
+      "url": "http://www.imdb.com/title/tt4246750"
+    },
+      "11": {
+      "image": "img/11.jpg",
+      "title": "La Lucertola con la pelle di donna",
+      "description": "Lucio Fulci",
+      "url": "http://www.imdb.com/title/tt0067361"
+    },
+      "12": {
+      "image": "img/12.jpg",
+      "title": "Danger: Diabolik",
+      "description": "Mario Bava",
+      "url": "http://www.imdb.com/title/tt0062861"
+    },
+    "13": {
+      "image": "img/13.jpg",
+      "title": "Le Orme",
+      "description": "Luigi Bazzoni",
+      "url": "http://www.imdb.com/title/tt0071950/"
+    },
+    "14": {
+      "image": "img/14.jpg",
+      "title": "Arcane Enchanter",
+      "description": "Pupi Avati",
+      "url": "http://www.imdb.com/title/tt0115564/"
+    },
+    "15": {
+      "image": "img/15.jpg",
+      "title": "Sudden Justice",
+      "description": "Umberto Lenzi",
+      "url": "http://www.imdb.com/title/tt0074952/"
+    },
+    "16": {
+      "image": "img/16.jpg",
+      "title": "Queens of Evil",
+      "description": "Tonino Cervi",
+      "url": "https://www.imdb.com/title/tt0066980/"
+    },
+    "17": {
+      "image": "img/17.jpg",
+      "title": "The Living Dead at Manchester Morgue",
+      "description": "Jorge Grau",
+      "url": "http://www.imdb.com/title/tt0071431/"
+    },
+    "18": {
+      "image": "img/18.jpg",
+      "title": "Atlantis Interceptors",
+      "description": "Ruggero Deodato",
+      "url": "https://www.imdb.com/title/tt0086135"
+    },
+    "19": {
+      "image": "img/19.jpg",
+      "title": "The Night Caller",
+      "description": "Henri Verneuil",
+      "url": "https://www.imdb.com/title/tt0073535"
+    },
+    "20": {
+      "image": "img/20.jpg",
+      "title": "The Psychic",
+      "description": "Lucio Fulci",
+      "url": "https://www.imdb.com/title/tt0075614/"
+    },
+    "21": {
+      "image": "img/21.jpg",
+      "title": "Night of the Devils",
+      "description": "Georgio Ferroni",
+      "url": "https://www.imdb.com/title/tt0069017"
+    },
+    "22": {
+      "image": "img/22.jpg",
+      "title": "Hercules in the Haunted World",
+      "description": "Mario Bava",
+      "url": "https://www.imdb.com/title/tt0054850"
+    },
+    "23": {
+      "image": "img/23.jpg",
+      "title": "Big Guns",
+      "description": "Duccio Tessari",
+      "url": "https://www.imdb.com/title/tt0069013"
+    }
+}

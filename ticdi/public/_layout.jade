@@ -1,0 +1,17 @@
+doctype transitional
+html(lang="sv")
+  include ../partials/_head
+  body.w-100.bg-near-black 
+  div.db.center.w-50.w-30-m.w-25-ns.mt5.mb4.mb5-ns.w-20-l.bg-yellow
+    include ../partials/_header
+  h1.normal.f4.f3-ns.f2-l.measure.lh-copy.center.tc.w-80.white-70.pb4
+    != yield
+div.cf.w-100.pa2-ns
+    for playlist in public._data
+      article.fl.w-100.w-50-m.w-25-ns.pa1-ns
+        div
+          img.db.bg-center.cover.center(src= playlist.image)
+        a.ph2.ph0-ns.pb3.link.db(href= playlist.url)
+            h3.magistral.f4.f5-l.mb0.normal.white.hover-yellow= playlist.title
+            h4.magistral.f6.fw4.mt2.white-40= playlist.description
+  include ../partials/_footer        

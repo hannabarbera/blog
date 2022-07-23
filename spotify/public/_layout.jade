@@ -1,0 +1,16 @@
+doctype transitional
+html(lang="sv")
+  include ../partials/_head
+  body.w-100.bg-black-90
+  div.avenir.w-100.pa3.pa5-ns.white-60
+    p.f4.measure.lh-copy
+      != yield
+  div.cf.w-100.pa2-ns
+      for playlist in public._data
+        article.fl.w-100.w-50-m.w-25-ns.pa2-ns
+          div.aspect-ratio.aspect-ratio--1x1
+            img.db.bg-center.cover.aspect-ratio--object(src= playlist.image)
+          a.ph2.ph0-ns.pb3.link.db(href= playlist.url)
+              h3.avenir.f6.mb0.normal.white-30.hover-green= playlist.title
+              h3.avenir.f6.fw4.mt2.white-50= playlist.description
+          
