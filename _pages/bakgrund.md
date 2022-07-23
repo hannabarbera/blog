@@ -4,7 +4,7 @@ title: About
 ---
 ![](../assets/jesper.gif)
 
-Grafisk formgivare, poddproducent och filmskribent med hemvist i Stockholm.
+Grafisk designer, filmskribent och poddproducent med hemvist i Stockholm.
 Här publicerar jag film och designrelaterat material i text och bildform.
 
 ## Externt
@@ -26,7 +26,7 @@ Här publicerar jag film och designrelaterat material i text och bildform.
       En bioklubb med fokus på italiensk exploateringsfilm
     </dd>
   <dt>
-    <a href="http://www.rymden.co/music">
+    <a href="/spotify/">
         Musiktypologier
     </a>
   </dt>
