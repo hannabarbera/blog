@@ -64,6 +64,11 @@ pre {
 
   }
 }
+/* HIGHLIGHT SPAN */
+
+.highlight {
+	background: lighten($minion, 15%);
+}
 
 figure {
     grid-column: 1;

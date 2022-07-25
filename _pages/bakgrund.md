@@ -5,7 +5,7 @@ title: About
 ![](../assets/jesper.gif)
 
 Grafisk designer, filmskribent och poddproducent med hemvist i Stockholm.
-Här publicerar jag film och designrelaterat material i text och bildform.
+Här publicerar jag <span class="highlight">film och designrelaterat material</span> i text och bildform.
 
 ## Externt
 
