@@ -1,5 +1,5 @@
 ---
-layout: tachyonspost
+layout: post
 title: "Det hyperassociativa tillståndet"
 date: 2015-12-26
 cover-image: /assets/cover-2015-12-26-360rem.svg
