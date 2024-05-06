@@ -156,7 +156,7 @@ dl {
 }
 
 .meta {
-	font-family: 'neue-haas-unica';
+	font-family: $sans;
 	margin: 2rem 0;
 	a {
 		border-bottom: 0;
@@ -168,7 +168,7 @@ dl {
 	top: 6rem;
 }
 .banner {
-	font-family: 'neue-haas-unica';
+	font-family: $sans;
 	a {
 		border-bottom: 0;
 		a:visited {
@@ -243,7 +243,7 @@ blockquote {
 	// margin: 0;
 	margin-bottom: 1.5rem;
 	p, a {
-	font-family: 'neue-haas-unica', sans-serif;
+	font-family: $sans, sans-serif;
 	font-weight: 400;
 	  font-size: 1.125rem;
 	  line-height: 1.33;
@@ -277,7 +277,7 @@ h1 {
 		 }
 }
 h2 {
-	font-family: 'neue-haas-unica';
+	font-family: $sans;
 	font-weight: 500;
 	font-size: 1.125rem;
 	margin-top: 1rem;
@@ -288,7 +288,7 @@ h2 {
 }
 }
 h3 {
-	font-family: 'neue-haas-unica';
+	font-family: $sans;
 	font-size: 1.125rem;
 	font-weight: 400;
 	margin-top: 1rem;
@@ -322,7 +322,7 @@ strong, b {
 	list-style:none;
 }
 .posts 	a {
-		font-family: 'neue-haas-unica';
+		font-family: $sans;
 		border-bottom: 0;
 		a:visited {
 			color: $black;
@@ -354,7 +354,7 @@ strong, b {
 }
 
 .posts li time, .projects li time {
-	font-family: 'neue-haas-unica';
+	font-family: $sans;
 	padding-left: 1rem;
 	white-space: nowrap;
 	font-variant-numeric: tabular-nums;
@@ -376,7 +376,7 @@ main {
 }
 // Sökresultat
 #results-container {
-	font-family: 'neue-haas-unica';
+	font-family: $sans;
 	li {
 			margin-bottom: .5rem;
 	}
