@@ -20,10 +20,19 @@ baseurl: ""
 highlighter: none
 
 exclude:
-  - .jekyll-cache
+- .sass-cache/
+- .jekyll-cache/
+- gemfiles/
+- Gemfile
+- Gemfile.lock
+- node_modules/
+- vendor/bundle/
+- vendor/cache/
+- vendor/gems/
+- vendor/ruby/
 
 compress_html:
-  clippings: all
+  clippings: all 
   comments: ["<!-- ", " -->"]
 
 
