@@ -1,9 +1,19 @@
 @import url("//hello.myfonts.net/count/2ddb17");
 
-@font-face {font-family: 'NeueHaasUnicaPro-Light';src: url('../webfonts/NeueHaasUnica/2DDB17_8_0.eot');src: url('../webfonts/NeueHaasUnica/2DDB17_8_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/NeueHaasUnica/2DDB17_8_0.woff2') format('woff2'),url('../webfonts/NeueHaasUnica/2DDB17_8_0.woff') format('woff'),url('../webfonts/NeueHaasUnica/2DDB17_8_0.ttf') format('truetype');}
+@font-face {font-family: 'NeueHaasUnicaPro-Light';
+  src: url('../webfonts/NeueHaasUnica/2DDB17_8_0.eot');
+  src: url('../webfonts/NeueHaasUnica/2DDB17_8_0.eot?#iefix') format('embedded-opentype'),
+  url('../webfonts/NeueHaasUnica/2DDB17_8_0.woff2') format('woff2'),
+  url('../webfonts/NeueHaasUnica/2DDB17_8_0.woff') format('woff'),
+  url('../webfonts/NeueHaasUnica/2DDB17_8_0.ttf') format('truetype');}
 
 
-@font-face {font-family: 'NeueHaasUnicaPro-LightIt';src: url('../webfonts/NeueHaasUnica/2DDB17_9_0.eot');src: url('../webfonts/NeueHaasUnica/2DDB17_9_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/NeueHaasUnica/2DDB17_9_0.woff2') format('woff2'),url('../webfonts/2DDB17_9_0.woff') format('woff'),url('../webfonts/NeueHaasUnica/2DDB17_9_0.ttf') format('truetype');}
+@font-face {font-family: 'NeueHaasUnicaPro-LightIt';
+  src: url('../webfonts/NeueHaasUnica/2DDB17_9_0.eot');
+  src: url('../webfonts/NeueHaasUnica/2DDB17_9_0.eot?#iefix') format('embedded-opentype'),
+  url('../webfonts/NeueHaasUnica/2DDB17_9_0.woff2') format('woff2'),
+  url('../webfonts/2DDB17_9_0.woff') format('woff'),
+  url('../webfonts/NeueHaasUnica/2DDB17_9_0.ttf') format('truetype');}
 
 @font-face {
   font-family: 'NeueHaasUnicaPro-Italic';
@@ -33,21 +43,6 @@
 }
 
 
-@font-face {
-  font-family: 'SuisseWorks-Regular';
-  src: url('../webfonts/suisse/SuisseWorks-Regular.eot');
-  src: url('../webfonts/suisse/SuisseWorks-Regular.eot?#iefix') format('embedded-opentype'),
-  url('../webfonts/suisse/SuisseWorks-Regular.woff') format('woff'),
-  url('../webfonts/suisse/SuisseWorks-Regular.ttf') format('truetype');
-}
-
-@font-face {
-  font-family: 'SuisseWorks-RegularItalic';
-  src: url('../webfonts/suisse/SuisseWorks-RegularItalic.eot');
-  src: url('../webfonts/suisse/SuisseWorks-RegularItalic.eot?#iefix') format('embedded-opentype'),
-  url('../webfonts/suisse/SuisseWorks-RegularItalic.woff') format('woff'),
-  url('../webfonts/suisse/SuisseWorks-RegularItalic.ttf') format('truetype');
-}
 
  @font-face {
   font-family: 'LyonTextWeb-Regular';
